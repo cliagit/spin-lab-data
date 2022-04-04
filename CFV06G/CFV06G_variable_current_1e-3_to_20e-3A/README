@@ -1,0 +1,10 @@
+Esperimento di caratterizzazione della resistività a corrente variabile e in funzione della temperatura con collegamento a 4 fili uscita V1 - V4 sul discendente A
+Nome del campione: CFV06G
+Corrente sorgente da 1e-3 a 20e-3
+### Experiment 20220302112402 ###
+Date 2022-03-02 start at 11:22:31 end at 11:23:47 duration 0:01:16
+Temperature range from 292.82°K to 292.83°K
+Resistance:
+	 average 3.8924e-02 𝛀
+	 minimum 3.8812e-02 𝛀 at 292.83°K
+	 maximum 3.9238e-02 𝛀 at 292.82°K
