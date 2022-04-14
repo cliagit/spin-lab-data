@@ -1,0 +1,17 @@
+Electrical characterization experiment of current biased Ca2RuO4 crystal doped with Pr along C-axis as a function of temperature with 2-wire connection on the A-up-and-down. Two conductive pads are created by sputtering Ag on both side of the sample.
+Name of the sample: CPRO_03_CE2_A1
+Area: 1.715e-2cm2
+Length: 0.1687e-1cm
+Current source fixed at 30e-6A
+
+### Experiment 20220414191000 ###
+Date 2022-04-14 start at 18:52:25 end at 19:09:32 duration 0:17:07
+Temperature range from 249.11°K to 277.75°K
+Resistivity:
+	 average 1.8340e+01𝛀 cm
+	 minimum 1.6330e+01𝛀 cm at 272.99°K
+	 maximum 2.2495e+01𝛀 cm at 261.01°K
+Voltage:
+	 average 5.4123e-04V
+	 minimum 4.8190e-04V at 272.99°K
+	 maximum 6.6382e-04V at 261.01°K
