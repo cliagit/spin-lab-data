@@ -107,7 +107,7 @@ try:
     multimeter.write(":FORM:ELEM READ")
 except gpib.GpibError as e:
     logging.fatal("Multimeter doesn't respond: %s", e)
-    # print("Multimeter doesn't respond, check it out!", e)
+    print("Multimeter doesn't respond, check it out!", e)
     sys.exit(-1)
 
 
@@ -128,7 +128,7 @@ try:
     nanovolt.write(":SENS:CHAN 1")
 except gpib.GpibError as e:
     logging.fatal("Nanovolt meter doesn't respond: %s" , e)
-    # print("Nanovolt meter doesn't respond, check it out!")
+    print("Nanovolt meter doesn't respond, check it out!", e)
     sys.exit(-1)
 
 ### Configurazione del SourceMeter Keithley 2400
@@ -159,7 +159,7 @@ except gpib.GpibError as e:
 #    sm.write(":OUTP ON")
 #except gpib.GpibError as e:
 #    logging.fatal("Source meter 2400 doesn't respond: %s", e)
-#    # print("Source meter doesn't respond, check it out!")
+#    print("Source meter doesn't respond, check it out!", e)
 #    sys.exit(-1)
 
 ### Configurazione del SourceMeter Keithley 6220
@@ -183,7 +183,7 @@ try:
     sm.write(":OUTP ON")
 except gpib.GpibError as e:
     logging.fatal("Source meter 6220 doesn't respond: %s", e)
-    # print("Source meter 6220 doesn't respond, check it out!")
+    print("Source meter 6220 doesn't respond, check it out!", e)
     sys.exit(-1)
 
 # Instantiate threading event handler
