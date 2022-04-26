@@ -1,0 +1,24 @@
+2022-03-23 16:04:50,693 INFO ### Start experiment: CA12X2_A at fixed current 0.35e-6A ###
+2022-03-23 16:04:52,039 INFO Found Multimeter KEITHLEY INSTRUMENTS INC.,MODEL 2700,0884890,B03  /A02  
+
+2022-03-23 16:04:53,056 INFO Found Nanovolt Meter KEITHLEY INSTRUMENTS INC.,MODEL 2182A,4056474,C03  /A02  
+
+2022-03-23 16:04:53,198 INFO Found Source Meter KEITHLEY INSTRUMENTS INC.,MODEL 6220,1315485,A05  /700x 
+
+2022-03-23 16:04:53,305 INFO Start the measurement loop
+2022-03-23 16:04:59,161 INFO Measurement at current 3.5e-07
+2022-03-23 16:05:00,071 WARNING Voltage reading differ > 1V: current value is 9.81359695V previous 0.0V temperature 89.23406111783964°K current 3.5e-07A
+2022-03-23 16:05:01,404 WARNING Voltage reading differ > 1V: current value is 2.96655688V previous 9.81359695V temperature 89.23102618220163°K current 3.5e-07A
+2022-03-23 16:05:02,417 WARNING Voltage reading differ > 1V: current value is 9.72092018V previous 2.96655688V temperature 89.23102618220163°K current 3.5e-07A
+2022-03-23 16:05:03,742 WARNING Voltage reading differ > 1V: current value is 2.89894536V previous 9.72092018V temperature 89.23276900479836°K current 3.5e-07A
+2022-03-23 16:05:04,753 WARNING Voltage reading differ > 1V: current value is 9.61612262V previous 2.89894536V temperature 89.234091366234°K current 3.5e-07A
+2022-03-23 16:05:06,083 WARNING Voltage reading differ > 1V: current value is 2.90175899V previous 9.61612262V temperature 89.23198808826352°K current 3.5e-07A
+2022-03-23 16:05:07,094 WARNING Voltage reading differ > 1V: current value is 9.65205873V previous 2.90175899V temperature 89.23201783269569°K current 3.5e-07A
+2022-03-23 16:05:08,437 WARNING Voltage reading differ > 1V: current value is 2.89999586V previous 9.65205873V temperature 89.23400112518303°K current 3.5e-07A
+2022-03-23 16:05:09,458 WARNING Voltage reading differ > 1V: current value is 9.63246498V previous 2.89999586V temperature 89.23466205211366°K current 3.5e-07A
+2022-03-23 16:05:10,799 WARNING Voltage reading differ > 1V: current value is 2.89570283V previous 9.63246498V temperature 89.23670532168865°K current 3.5e-07A
+2022-03-23 16:05:10,913 INFO T:89.23°K V:6.2998e+00V I:3.5000e-07A R:1.7999e+07𝛀 E:2.0964e+02Vcm J:1.1404e-05A/cm2 𝛒:1.8383e+07𝛀cm
+2022-03-23 16:05:21,205 INFO Save the description file
+2022-03-23 16:05:21,230 INFO Save data in numpy format CA12X2_A/CA12X2_A_at_fixed_current_0.35e-6A/CA12X2_A_at_fixed_current_0.35e-6A-20220323160519
+2022-03-23 16:05:21,243 INFO Save data in CSV format CA12X2_A/CA12X2_A_at_fixed_current_0.35e-6A/CA12X2_A_at_fixed_current_0.35e-6A-20220323160519.csv
+2022-03-23 16:05:21,252 INFO Save plot as image CA12X2_A/CA12X2_A_at_fixed_current_0.35e-6A/CA12X2_A_at_fixed_current_0.35e-6A-20220323160519.png

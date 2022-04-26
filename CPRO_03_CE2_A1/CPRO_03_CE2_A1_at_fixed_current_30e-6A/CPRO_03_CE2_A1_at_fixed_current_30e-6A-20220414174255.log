@@ -1,0 +1,24 @@
+2022-04-14 17:13:41,245 INFO ### Start experiment: CPRO_03_CE2_A1 at fixed current 30e-6A ###
+2022-04-14 17:13:42,590 INFO Found Multimeter KEITHLEY INSTRUMENTS INC.,MODEL 2700,0884890,B03  /A02  
+
+2022-04-14 17:13:43,619 INFO Found Nanovolt Meter KEITHLEY INSTRUMENTS INC.,MODEL 2182A,4056474,C03  /A02  
+
+2022-04-14 17:13:43,712 INFO Found Source Meter KEITHLEY INSTRUMENTS INC.,MODEL 6220,1315485,A05  /700x 
+
+2022-04-14 17:13:43,805 INFO Start the measurement loop
+2022-04-14 17:17:55,358 INFO Measurement at current 3e-05
+2022-04-14 17:18:03,642 INFO T:90.02°K V:9.7460e-01V I:3.0000e-05A R:3.2487e+04𝛀 E:5.7771e+01V/cm J:1.7493e-03A/cm2 𝛒:3.3026e+04𝛀 cm
+2022-04-14 17:32:18,461 WARNING Reading gpib error, check the multimeter: write() failed: A read or write of data bytes has been aborted, possibly due to a timeout or reception of a device clear command.
+2022-04-14 17:33:46,845 WARNING Reading gpib error, check the multimeter: read() failed: A read or write of data bytes has been aborted, possibly due to a timeout or reception of a device clear command.
+2022-04-14 17:37:44,768 INFO Measurement at current 3e-05
+2022-04-14 17:37:53,304 INFO T:85.03°K V:1.6920e+00V I:3.0000e-05A R:5.6400e+04𝛀 E:1.0030e+02V/cm J:1.7493e-03A/cm2 𝛒:5.7336e+04𝛀 cm
+2022-04-14 17:42:01,295 INFO Measurement at current 3e-05
+2022-04-14 17:42:09,294 INFO T:80.13°K V:3.1928e+00V I:3.0000e-05A R:1.0643e+05𝛀 E:1.8926e+02V/cm J:1.7493e-03A/cm2 𝛒:1.0819e+05𝛀 cm
+2022-04-14 17:42:28,456 INFO Measurement at current 3e-05
+2022-04-14 17:42:36,471 INFO T:76.83°K V:4.4392e+00V I:3.0000e-05A R:1.4797e+05𝛀 E:2.6314e+02V/cm J:1.7493e-03A/cm2 𝛒:1.5043e+05𝛀 cm
+2022-04-14 17:42:44,073 INFO Measurement at current 3e-05
+2022-04-14 17:42:52,083 INFO T:76.82°K V:4.6612e+00V I:3.0000e-05A R:1.5537e+05𝛀 E:2.7630e+02V/cm J:1.7493e-03A/cm2 𝛒:1.5795e+05𝛀 cm
+2022-04-14 17:43:04,017 INFO Save the description file
+2022-04-14 17:43:04,019 INFO Save data in numpy format CPRO_03_CE2_A1/CPRO_03_CE2_A1_at_fixed_current_30e-6A/CPRO_03_CE2_A1_at_fixed_current_30e-6A-20220414174255
+2022-04-14 17:43:04,034 INFO Save data in CSV format CPRO_03_CE2_A1/CPRO_03_CE2_A1_at_fixed_current_30e-6A/CPRO_03_CE2_A1_at_fixed_current_30e-6A-20220414174255.csv
+2022-04-14 17:43:04,046 INFO Save plot as image CPRO_03_CE2_A1/CPRO_03_CE2_A1_at_fixed_current_30e-6A/CPRO_03_CE2_A1_at_fixed_current_30e-6A-20220414174255.png

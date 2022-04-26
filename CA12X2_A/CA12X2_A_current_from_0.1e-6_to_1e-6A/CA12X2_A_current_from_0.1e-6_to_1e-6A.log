@@ -1,0 +1,231 @@
+2022-03-23 14:56:57,371 INFO ### Start experiment: CA12X2_A current from 0.1e-6 to 1e-6A ###
+2022-03-23 14:56:58,714 INFO Found Multimeter KEITHLEY INSTRUMENTS INC.,MODEL 2700,0884890,B03  /A02  
+
+2022-03-23 14:56:59,751 INFO Found Nanovolt Meter KEITHLEY INSTRUMENTS INC.,MODEL 2182A,4056474,C03  /A02  
+
+2022-03-23 14:56:59,921 INFO Found Source Meter KEITHLEY INSTRUMENTS INC.,MODEL 6220,1315485,A05  /700x 
+
+2022-03-23 14:57:00,024 INFO Start the measurement loop
+2022-03-23 14:57:06,608 INFO Measurement at current 1e-07
+2022-03-23 14:57:08,074 WARNING Voltage reading differ > 1V: current value is 2.71052964V previous 0.0V temperature 92.22505625180196°K current 1e-07A
+2022-03-23 14:57:08,778 WARNING Voltage reading differ > 1V: current value is 4.03839548V previous 2.71052964V temperature 92.22142187180563°K current 1e-07A
+2022-03-23 14:57:14,478 INFO T:92.21°K V:3.9174e+00V I:1.0000e-07A R:3.9174e+07𝛀 E:1.3036e+02Vcm J:3.2584e-06A/cm2 𝛒:4.0009e+07𝛀cm
+2022-03-23 14:57:14,501 INFO Measurement at current 1.1836734693877551e-07
+2022-03-23 14:57:21,564 INFO T:92.17°K V:4.7901e+00V I:1.1837e-07A R:4.0468e+07𝛀 E:1.5940e+02Vcm J:3.8569e-06A/cm2 𝛒:4.1330e+07𝛀cm
+2022-03-23 14:57:21,582 INFO Measurement at current 1.3673469387755103e-07
+2022-03-23 14:57:28,579 INFO T:92.14°K V:5.5151e+00V I:1.3673e-07A R:4.0334e+07𝛀 E:1.8353e+02Vcm J:4.4554e-06A/cm2 𝛒:4.1193e+07𝛀cm
+2022-03-23 14:57:28,599 INFO Measurement at current 1.5510204081632651e-07
+2022-03-23 14:57:35,589 INFO T:92.11°K V:6.2349e+00V I:1.5510e-07A R:4.0199e+07𝛀 E:2.0748e+02Vcm J:5.0538e-06A/cm2 𝛒:4.1055e+07𝛀cm
+2022-03-23 14:57:35,613 INFO Measurement at current 1.7346938775510203e-07
+2022-03-23 14:57:42,628 INFO T:92.07°K V:6.9065e+00V I:1.7347e-07A R:3.9814e+07𝛀 E:2.2983e+02Vcm J:5.6523e-06A/cm2 𝛒:4.0662e+07𝛀cm
+2022-03-23 14:57:42,643 INFO Measurement at current 1.9183673469387755e-07
+2022-03-23 14:57:49,749 INFO T:92.04°K V:7.5444e+00V I:1.9184e-07A R:3.9327e+07𝛀 E:2.5106e+02Vcm J:6.2508e-06A/cm2 𝛒:4.0165e+07𝛀cm
+2022-03-23 14:57:49,772 INFO Measurement at current 2.1020408163265303e-07
+2022-03-23 14:57:50,379 WARNING Voltage reading differ > 1V: current value is 5.80577282V previous 7.54819598V temperature 92.0192175383767°K current 2.1020408163265303e-07A
+2022-03-23 14:57:51,101 WARNING Voltage reading differ > 1V: current value is 8.20261793V previous 5.80577282V temperature 92.01540203586346°K current 2.1020408163265303e-07A
+2022-03-23 14:57:56,826 INFO T:92.00°K V:7.9244e+00V I:2.1020e-07A R:3.7699e+07𝛀 E:2.6371e+02Vcm J:6.8493e-06A/cm2 𝛒:3.8501e+07𝛀cm
+2022-03-23 14:57:56,843 INFO Measurement at current 2.2857142857142855e-07
+2022-03-23 14:58:03,971 INFO T:91.97°K V:8.7354e+00V I:2.2857e-07A R:3.8217e+07𝛀 E:2.9069e+02Vcm J:7.4477e-06A/cm2 𝛒:3.9031e+07𝛀cm
+2022-03-23 14:58:03,992 INFO Measurement at current 2.4693877551020407e-07
+2022-03-23 14:58:11,011 INFO T:91.94°K V:9.4163e+00V I:2.4694e-07A R:3.8132e+07𝛀 E:3.1335e+02Vcm J:8.0462e-06A/cm2 𝛒:3.8944e+07𝛀cm
+2022-03-23 14:58:11,024 INFO Measurement at current 2.6530612244897955e-07
+2022-03-23 14:58:18,038 INFO T:91.91°K V:9.9901e+00V I:2.6531e-07A R:3.7655e+07𝛀 E:3.3245e+02Vcm J:8.6447e-06A/cm2 𝛒:3.8457e+07𝛀cm
+2022-03-23 14:58:18,075 INFO Measurement at current 2.836734693877551e-07
+2022-03-23 14:58:25,184 INFO T:91.87°K V:1.0602e+01V I:2.8367e-07A R:3.7373e+07𝛀 E:3.5280e+02Vcm J:9.2432e-06A/cm2 𝛒:3.8169e+07𝛀cm
+2022-03-23 14:58:25,209 INFO Measurement at current 3.020408163265306e-07
+2022-03-23 14:58:32,265 INFO T:91.84°K V:1.1219e+01V I:3.0204e-07A R:3.7144e+07𝛀 E:3.7334e+02Vcm J:9.8417e-06A/cm2 𝛒:3.7935e+07𝛀cm
+2022-03-23 14:58:32,286 INFO Measurement at current 3.2040816326530607e-07
+2022-03-23 14:58:39,426 INFO T:91.81°K V:1.1821e+01V I:3.2041e-07A R:3.6893e+07𝛀 E:3.9337e+02Vcm J:1.0440e-05A/cm2 𝛒:3.7678e+07𝛀cm
+2022-03-23 14:58:39,452 INFO Measurement at current 3.387755102040816e-07
+2022-03-23 14:58:40,678 WARNING Voltage reading differ > 1V: current value is 2.76114689V previous 11.8607303V temperature 91.79068099265784°K current 3.387755102040816e-07A
+2022-03-23 14:58:41,689 WARNING Voltage reading differ > 1V: current value is 8.97078252V previous 2.76114689V temperature 91.78611738215109°K current 3.387755102040816e-07A
+2022-03-23 14:58:43,010 WARNING Voltage reading differ > 1V: current value is 2.76275221V previous 8.97078252V temperature 91.78062836100759°K current 3.387755102040816e-07A
+2022-03-23 14:58:44,016 WARNING Voltage reading differ > 1V: current value is 8.95394157V previous 2.76275221V temperature 91.77603459407614°K current 3.387755102040816e-07A
+2022-03-23 14:58:45,344 WARNING Voltage reading differ > 1V: current value is 2.74863845V previous 8.95394157V temperature 91.77099334360783°K current 3.387755102040816e-07A
+2022-03-23 14:58:46,427 WARNING Voltage reading differ > 1V: current value is 8.97835454V previous 2.74863845V temperature 91.76648903901088°K current 3.387755102040816e-07A
+2022-03-23 14:58:47,749 WARNING Voltage reading differ > 1V: current value is 2.75813331V previous 8.97835454V temperature 91.76013487010633°K current 3.387755102040816e-07A
+2022-03-23 14:58:48,757 WARNING Voltage reading differ > 1V: current value is 8.90188916V previous 2.75813331V temperature 91.75574954679229°K current 3.387755102040816e-07A
+2022-03-23 14:58:50,084 WARNING Voltage reading differ > 1V: current value is 2.75677113V previous 8.90188916V temperature 91.74975354853282°K current 3.387755102040816e-07A
+2022-03-23 14:58:51,092 WARNING Voltage reading differ > 1V: current value is 8.97247686V previous 2.75677113V temperature 91.7455768107964°K current 3.387755102040816e-07A
+2022-03-23 14:58:51,220 INFO T:91.77°K V:5.8565e+00V I:3.3878e-07A R:1.7287e+07𝛀 E:1.9489e+02Vcm J:1.1039e-05A/cm2 𝛒:1.7655e+07𝛀cm
+2022-03-23 14:58:51,252 INFO Measurement at current 3.571428571428571e-07
+2022-03-23 14:58:52,472 WARNING Voltage reading differ > 1V: current value is 2.90218465V previous 8.97247686V temperature 91.74035594505601°K current 3.571428571428571e-07A
+2022-03-23 14:58:53,488 WARNING Voltage reading differ > 1V: current value is 9.38758917V previous 2.90218465V temperature 91.73519456549003°K current 3.571428571428571e-07A
+2022-03-23 14:58:54,804 WARNING Voltage reading differ > 1V: current value is 2.90538312V previous 9.38758917V temperature 91.72964569891018°K current 3.571428571428571e-07A
+2022-03-23 14:58:55,811 WARNING Voltage reading differ > 1V: current value is 9.3793194V previous 2.90538312V temperature 91.72588667569802°K current 3.571428571428571e-07A
+2022-03-23 14:58:57,134 WARNING Voltage reading differ > 1V: current value is 2.90730714V previous 9.3793194V temperature 91.7196213821816°K current 3.571428571428571e-07A
+2022-03-23 14:58:58,138 WARNING Voltage reading differ > 1V: current value is 9.41694482V previous 2.90730714V temperature 91.71562348980376°K current 3.571428571428571e-07A
+2022-03-23 14:58:59,468 WARNING Voltage reading differ > 1V: current value is 2.90794906V previous 9.41694482V temperature 91.709417582902°K current 3.571428571428571e-07A
+2022-03-23 14:59:00,473 WARNING Voltage reading differ > 1V: current value is 9.39285438V previous 2.90794906V temperature 91.70553871112732°K current 3.571428571428571e-07A
+2022-03-23 14:59:01,789 WARNING Voltage reading differ > 1V: current value is 2.90331892V previous 9.39285438V temperature 91.69960143778411°K current 3.571428571428571e-07A
+2022-03-23 14:59:02,825 WARNING Voltage reading differ > 1V: current value is 9.43631956V previous 2.90331892V temperature 91.69533500961268°K current 3.571428571428571e-07A
+2022-03-23 14:59:02,953 INFO T:91.72°K V:6.1539e+00V I:3.5714e-07A R:1.7231e+07𝛀 E:2.0479e+02Vcm J:1.1637e-05A/cm2 𝛒:1.7598e+07𝛀cm
+2022-03-23 14:59:02,967 INFO Measurement at current 3.7551020408163265e-07
+2022-03-23 14:59:04,180 WARNING Voltage reading differ > 1V: current value is 3.05096665V previous 9.43631956V temperature 91.68996423331961°K current 3.7551020408163265e-07A
+2022-03-23 14:59:05,327 WARNING Voltage reading differ > 1V: current value is 9.69900725V previous 3.05096665V temperature 91.68492176714827°K current 3.7551020408163265e-07A
+2022-03-23 14:59:06,681 WARNING Voltage reading differ > 1V: current value is 3.07358854V previous 9.69900725V temperature 91.6787748979207°K current 3.7551020408163265e-07A
+2022-03-23 14:59:07,684 WARNING Voltage reading differ > 1V: current value is 9.70036192V previous 3.07358854V temperature 91.67412024721746°K current 3.7551020408163265e-07A
+2022-03-23 14:59:09,042 WARNING Voltage reading differ > 1V: current value is 3.04557147V previous 9.70036192V temperature 91.66886829850179°K current 3.7551020408163265e-07A
+2022-03-23 14:59:10,047 WARNING Voltage reading differ > 1V: current value is 9.74054297V previous 3.04557147V temperature 91.66516820885471°K current 3.7551020408163265e-07A
+2022-03-23 14:59:11,391 WARNING Voltage reading differ > 1V: current value is 3.05128151V previous 9.74054297V temperature 91.6595882147765°K current 3.7551020408163265e-07A
+2022-03-23 14:59:12,405 WARNING Voltage reading differ > 1V: current value is 9.76074132V previous 3.05128151V temperature 91.65514207942154°K current 3.7551020408163265e-07A
+2022-03-23 14:59:13,747 WARNING Voltage reading differ > 1V: current value is 3.04892196V previous 9.76074132V temperature 91.64899519714297°K current 3.7551020408163265e-07A
+2022-03-23 14:59:14,772 WARNING Voltage reading differ > 1V: current value is 9.73166074V previous 3.04892196V temperature 91.64484731836582°K current 3.7551020408163265e-07A
+2022-03-23 14:59:14,907 INFO T:91.67°K V:6.3903e+00V I:3.7551e-07A R:1.7018e+07𝛀 E:2.1265e+02Vcm J:1.2236e-05A/cm2 𝛒:1.7380e+07𝛀cm
+2022-03-23 14:59:14,974 INFO Measurement at current 3.9387755102040813e-07
+2022-03-23 14:59:16,207 WARNING Voltage reading differ > 1V: current value is 3.20096475V previous 9.73166074V temperature 91.63911780925605°K current 3.9387755102040813e-07A
+2022-03-23 14:59:17,263 WARNING Voltage reading differ > 1V: current value is 9.96020599V previous 3.20096475V temperature 91.63485015623291°K current 3.9387755102040813e-07A
+2022-03-23 14:59:18,588 WARNING Voltage reading differ > 1V: current value is 3.19687957V previous 9.96020599V temperature 91.62921010693789°K current 3.9387755102040813e-07A
+2022-03-23 14:59:19,619 WARNING Voltage reading differ > 1V: current value is 9.94651898V previous 3.19687957V temperature 91.6252407403796°K current 3.9387755102040813e-07A
+2022-03-23 14:59:20,973 WARNING Voltage reading differ > 1V: current value is 3.20089208V previous 9.94651898V temperature 91.61945133388761°K current 3.9387755102040813e-07A
+2022-03-23 14:59:21,997 WARNING Voltage reading differ > 1V: current value is 10.0246454V previous 3.20089208V temperature 91.61527306927715°K current 3.9387755102040813e-07A
+2022-03-23 14:59:23,366 WARNING Voltage reading differ > 1V: current value is 3.20216473V previous 10.0246454V temperature 91.6095430841526°K current 3.9387755102040813e-07A
+2022-03-23 14:59:24,407 WARNING Voltage reading differ > 1V: current value is 10.0232923V previous 3.20216473V temperature 91.60533516144591°K current 3.9387755102040813e-07A
+2022-03-23 14:59:25,739 WARNING Voltage reading differ > 1V: current value is 3.20369086V previous 10.0232923V temperature 91.59984385761682°K current 3.9387755102040813e-07A
+2022-03-23 14:59:26,763 WARNING Voltage reading differ > 1V: current value is 9.98462683V previous 3.20369086V temperature 91.59560577690083°K current 3.9387755102040813e-07A
+2022-03-23 14:59:26,873 INFO T:91.62°K V:6.5944e+00V I:3.9388e-07A R:1.6742e+07𝛀 E:2.1945e+02Vcm J:1.2834e-05A/cm2 𝛒:1.7099e+07𝛀cm
+2022-03-23 14:59:26,888 INFO Measurement at current 4.122448979591836e-07
+2022-03-23 14:59:28,101 WARNING Voltage reading differ > 1V: current value is 3.35090848V previous 9.98462683V temperature 91.58999464858633°K current 4.122448979591836e-07A
+2022-03-23 14:59:29,113 WARNING Voltage reading differ > 1V: current value is 10.2043111V previous 3.35090848V temperature 91.58572690712236°K current 4.122448979591836e-07A
+2022-03-23 14:59:30,454 WARNING Voltage reading differ > 1V: current value is 3.3536449V previous 10.2043111V temperature 91.58053374326853°K current 4.122448979591836e-07A
+2022-03-23 14:59:31,503 WARNING Voltage reading differ > 1V: current value is 10.2571665V previous 3.3536449V temperature 91.57635502149442°K current 4.122448979591836e-07A
+2022-03-23 14:59:32,867 WARNING Voltage reading differ > 1V: current value is 3.35722481V previous 10.2571665V temperature 91.57083322476892°K current 4.122448979591836e-07A
+2022-03-23 14:59:33,897 WARNING Voltage reading differ > 1V: current value is 10.1969227V previous 3.35722481V temperature 91.56656525328353°K current 4.122448979591836e-07A
+2022-03-23 14:59:35,241 WARNING Voltage reading differ > 1V: current value is 3.35936057V previous 10.1969227V temperature 91.56131171713184°K current 4.122448979591836e-07A
+2022-03-23 14:59:36,243 WARNING Voltage reading differ > 1V: current value is 10.2435467V previous 3.35936057V temperature 91.5573716392442°K current 4.122448979591836e-07A
+2022-03-23 14:59:37,581 WARNING Voltage reading differ > 1V: current value is 3.36425235V previous 10.2435467V temperature 91.55185004834429°K current 4.122448979591836e-07A
+2022-03-23 14:59:38,624 WARNING Voltage reading differ > 1V: current value is 10.2423736V previous 3.36425235V temperature 91.54793941205736°K current 4.122448979591836e-07A
+2022-03-23 14:59:38,782 INFO T:91.57°K V:6.7930e+00V I:4.1224e-07A R:1.6478e+07𝛀 E:2.2606e+02Vcm J:1.3433e-05A/cm2 𝛒:1.6829e+07𝛀cm
+2022-03-23 14:59:38,806 INFO Measurement at current 4.3061224489795917e-07
+2022-03-23 14:59:40,026 WARNING Voltage reading differ > 1V: current value is 3.5033358V previous 10.2423736V temperature 91.54202955718145°K current 4.3061224489795917e-07A
+2022-03-23 14:59:41,027 WARNING Voltage reading differ > 1V: current value is 10.4131045V previous 3.5033358V temperature 91.53814886091922°K current 4.3061224489795917e-07A
+2022-03-23 14:59:42,399 WARNING Voltage reading differ > 1V: current value is 3.50221221V previous 10.4131045V temperature 91.53247722893856°K current 4.3061224489795917e-07A
+2022-03-23 14:59:43,432 WARNING Voltage reading differ > 1V: current value is 10.3586303V previous 3.50221221V temperature 91.52850728306058°K current 4.3061224489795917e-07A
+2022-03-23 14:59:44,797 WARNING Voltage reading differ > 1V: current value is 3.50176391V previous 10.3586303V temperature 91.52316353661216°K current 4.3061224489795917e-07A
+2022-03-23 14:59:45,859 WARNING Voltage reading differ > 1V: current value is 10.4655352V previous 3.50176391V temperature 91.51925308524547°K current 4.3061224489795917e-07A
+2022-03-23 14:59:47,215 WARNING Voltage reading differ > 1V: current value is 3.50205696V previous 10.4655352V temperature 91.5142978484395°K current 4.3061224489795917e-07A
+2022-03-23 14:59:48,236 WARNING Voltage reading differ > 1V: current value is 10.3567739V previous 3.50205696V temperature 91.50931249187036°K current 4.3061224489795917e-07A
+2022-03-23 14:59:49,592 WARNING Voltage reading differ > 1V: current value is 3.50285351V previous 10.3567739V temperature 91.50384925397515°K current 4.3061224489795917e-07A
+2022-03-23 14:59:50,620 WARNING Voltage reading differ > 1V: current value is 10.415174V previous 3.50285351V temperature 91.50059521174879°K current 4.3061224489795917e-07A
+2022-03-23 14:59:50,785 INFO T:91.52°K V:6.9521e+00V I:4.3061e-07A R:1.6145e+07𝛀 E:2.3135e+02Vcm J:1.4031e-05A/cm2 𝛒:1.6489e+07𝛀cm
+2022-03-23 14:59:50,809 INFO Measurement at current 4.4897959183673465e-07
+2022-03-23 14:59:52,071 WARNING Voltage reading differ > 1V: current value is 3.64588883V previous 10.415174V temperature 91.49504268599283°K current 4.4897959183673465e-07A
+2022-03-23 14:59:53,112 WARNING Voltage reading differ > 1V: current value is 10.6126082V previous 3.64588883V temperature 91.48969893648123°K current 4.4897959183673465e-07A
+2022-03-23 14:59:54,451 WARNING Voltage reading differ > 1V: current value is 3.64473916V previous 10.6126082V temperature 91.48474278603202°K current 4.4897959183673465e-07A
+2022-03-23 14:59:55,472 WARNING Voltage reading differ > 1V: current value is 10.5659636V previous 3.64473916V temperature 91.48142896352826°K current 4.4897959183673465e-07A
+2022-03-23 14:59:56,815 WARNING Voltage reading differ > 1V: current value is 3.65319554V previous 10.5659636V temperature 91.47560715955335°K current 4.4897959183673465e-07A
+2022-03-23 14:59:57,822 WARNING Voltage reading differ > 1V: current value is 10.5661541V previous 3.65319554V temperature 91.47190505759497°K current 4.4897959183673465e-07A
+2022-03-23 14:59:59,142 WARNING Voltage reading differ > 1V: current value is 3.65364519V previous 10.5661541V temperature 91.4665910136096°K current 4.4897959183673465e-07A
+2022-03-23 15:00:00,171 WARNING Voltage reading differ > 1V: current value is 10.5815837V previous 3.65364519V temperature 91.4633661830674°K current 4.4897959183673465e-07A
+2022-03-23 15:00:01,536 WARNING Voltage reading differ > 1V: current value is 3.64867819V previous 10.5815837V temperature 91.45739480940989°K current 4.4897959183673465e-07A
+2022-03-23 15:00:02,588 WARNING Voltage reading differ > 1V: current value is 10.573592V previous 3.64867819V temperature 91.45333435811085°K current 4.4897959183673465e-07A
+2022-03-23 15:00:02,756 INFO T:91.47°K V:7.1146e+00V I:4.4898e-07A R:1.5846e+07𝛀 E:2.3676e+02Vcm J:1.4630e-05A/cm2 𝛒:1.6184e+07𝛀cm
+2022-03-23 15:00:02,789 INFO Measurement at current 4.673469387755102e-07
+2022-03-23 15:00:04,065 WARNING Voltage reading differ > 1V: current value is 3.79102754V previous 10.573592V temperature 91.44831858960106°K current 4.673469387755102e-07A
+2022-03-23 15:00:05,139 WARNING Voltage reading differ > 1V: current value is 10.6987241V previous 3.79102754V temperature 91.44339191673326°K current 4.673469387755102e-07A
+2022-03-23 15:00:06,508 WARNING Voltage reading differ > 1V: current value is 3.79058594V previous 10.6987241V temperature 91.43801733191376°K current 4.673469387755102e-07A
+2022-03-23 15:00:07,543 WARNING Voltage reading differ > 1V: current value is 10.6942502V previous 3.79058594V temperature 91.4341354974531°K current 4.673469387755102e-07A
+2022-03-23 15:00:08,873 WARNING Voltage reading differ > 1V: current value is 3.78715354V previous 10.6942502V temperature 91.4290598432897°K current 4.673469387755102e-07A
+2022-03-23 15:00:09,890 WARNING Voltage reading differ > 1V: current value is 10.7064732V previous 3.78715354V temperature 91.4258346711155°K current 4.673469387755102e-07A
+2022-03-23 15:00:11,208 WARNING Voltage reading differ > 1V: current value is 3.78833819V previous 10.7064732V temperature 91.420191300579°K current 4.673469387755102e-07A
+2022-03-23 15:00:12,235 WARNING Voltage reading differ > 1V: current value is 10.716798V previous 3.78833819V temperature 91.41678720002477°K current 4.673469387755102e-07A
+2022-03-23 15:00:13,589 WARNING Voltage reading differ > 1V: current value is 3.78758034V previous 10.716798V temperature 91.41171079618833°K current 4.673469387755102e-07A
+2022-03-23 15:00:14,633 WARNING Voltage reading differ > 1V: current value is 10.7644515V previous 3.78758034V temperature 91.4072019386819°K current 4.673469387755102e-07A
+2022-03-23 15:00:14,760 INFO T:91.43°K V:7.2525e+00V I:4.6735e-07A R:1.5519e+07𝛀 E:2.4135e+02Vcm J:1.5228e-05A/cm2 𝛒:1.5849e+07𝛀cm
+2022-03-23 15:00:14,773 INFO Measurement at current 4.857142857142856e-07
+2022-03-23 15:00:15,987 WARNING Voltage reading differ > 1V: current value is 3.93502811V previous 10.7644515V temperature 91.40191648258448°K current 4.857142857142856e-07A
+2022-03-23 15:00:17,007 WARNING Voltage reading differ > 1V: current value is 10.8185842V previous 3.93502811V temperature 91.39812393131986°K current 4.857142857142856e-07A
+2022-03-23 15:00:18,330 WARNING Voltage reading differ > 1V: current value is 3.91584466V previous 10.8185842V temperature 91.39310738065768°K current 4.857142857142856e-07A
+2022-03-23 15:00:19,332 WARNING Voltage reading differ > 1V: current value is 10.8011075V previous 3.91584466V temperature 91.38892644992639°K current 4.857142857142856e-07A
+2022-03-23 15:00:20,663 WARNING Voltage reading differ > 1V: current value is 3.91831868V previous 10.8011075V temperature 91.38450648356482°K current 4.857142857142856e-07A
+2022-03-23 15:00:21,756 WARNING Voltage reading differ > 1V: current value is 10.8138004V previous 3.91831868V temperature 91.38077386864052°K current 4.857142857142856e-07A
+2022-03-23 15:00:23,074 WARNING Voltage reading differ > 1V: current value is 3.89498448V previous 10.8138004V temperature 91.37444286284106°K current 4.857142857142856e-07A
+2022-03-23 15:00:24,077 WARNING Voltage reading differ > 1V: current value is 10.800834V previous 3.89498448V temperature 91.3722628582742°K current 4.857142857142856e-07A
+2022-03-23 15:00:25,415 WARNING Voltage reading differ > 1V: current value is 3.87337684V previous 10.800834V temperature 91.36452776694722°K current 4.857142857142856e-07A
+2022-03-23 15:00:26,499 WARNING Voltage reading differ > 1V: current value is 10.887384V previous 3.87337684V temperature 91.36387089267089°K current 4.857142857142856e-07A
+2022-03-23 15:00:26,634 INFO T:91.38°K V:7.3659e+00V I:4.8571e-07A R:1.5165e+07𝛀 E:2.4512e+02Vcm J:1.5826e-05A/cm2 𝛒:1.5488e+07𝛀cm
+2022-03-23 15:00:26,661 INFO Measurement at current 5.040816326530612e-07
+2022-03-23 15:00:27,886 WARNING Voltage reading differ > 1V: current value is 4.07491317V previous 10.887384V temperature 91.35816640684176°K current 5.040816326530612e-07A
+2022-03-23 15:00:28,929 WARNING Voltage reading differ > 1V: current value is 10.9103898V previous 4.07491317V temperature 91.35380618353118°K current 5.040816326530612e-07A
+2022-03-23 15:00:30,249 WARNING Voltage reading differ > 1V: current value is 4.05600241V previous 10.9103898V temperature 91.34896788610968°K current 5.040816326530612e-07A
+2022-03-23 15:00:31,260 WARNING Voltage reading differ > 1V: current value is 10.9129082V previous 4.05600241V temperature 91.34520483144709°K current 5.040816326530612e-07A
+2022-03-23 15:00:32,674 WARNING Voltage reading differ > 1V: current value is 3.97088V previous 10.9129082V temperature 91.34039598009772°K current 5.040816326530612e-07A
+2022-03-23 15:00:33,720 WARNING Voltage reading differ > 1V: current value is 10.8859338V previous 3.97088V temperature 91.33758890751268°K current 5.040816326530612e-07A
+2022-03-23 15:00:35,091 WARNING Voltage reading differ > 1V: current value is 4.03316511V previous 10.8859338V temperature 91.33036066810597°K current 5.040816326530612e-07A
+2022-03-23 15:00:36,129 WARNING Voltage reading differ > 1V: current value is 10.9086531V previous 4.03316511V temperature 91.3263884558219°K current 5.040816326530612e-07A
+2022-03-23 15:00:37,480 WARNING Voltage reading differ > 1V: current value is 4.03883363V previous 10.9086531V temperature 91.32205740569766°K current 5.040816326530612e-07A
+2022-03-23 15:00:38,507 WARNING Voltage reading differ > 1V: current value is 10.9268431V previous 4.03883363V temperature 91.31844339611055°K current 5.040816326530612e-07A
+2022-03-23 15:00:38,620 INFO T:91.34°K V:7.4719e+00V I:5.0408e-07A R:1.4823e+07𝛀 E:2.4865e+02Vcm J:1.6425e-05A/cm2 𝛒:1.5138e+07𝛀cm
+2022-03-23 15:00:38,664 INFO Measurement at current 5.224489795918367e-07
+2022-03-23 15:00:39,705 WARNING Voltage reading differ > 1V: current value is 4.19931938V previous 10.9268431V temperature 91.31369431479527°K current 5.224489795918367e-07A
+2022-03-23 15:00:40,735 WARNING Voltage reading differ > 1V: current value is 11.0370558V previous 4.19931938V temperature 91.31010978598357°K current 5.224489795918367e-07A
+2022-03-23 15:00:41,931 WARNING Voltage reading differ > 1V: current value is 4.18842705V previous 11.0370558V temperature 91.30580860404605°K current 5.224489795918367e-07A
+2022-03-23 15:00:43,046 WARNING Voltage reading differ > 1V: current value is 11.004324V previous 4.18842705V temperature 91.30174641206091°K current 5.224489795918367e-07A
+2022-03-23 15:00:44,397 WARNING Voltage reading differ > 1V: current value is 4.1979641V previous 11.004324V temperature 91.2971464468783°K current 5.224489795918367e-07A
+2022-03-23 15:00:45,408 WARNING Voltage reading differ > 1V: current value is 11.0246624V previous 4.1979641V temperature 91.29332320326084°K current 5.224489795918367e-07A
+2022-03-23 15:00:46,607 WARNING Voltage reading differ > 1V: current value is 4.1882124V previous 11.0246624V temperature 91.28863342146337°K current 5.224489795918367e-07A
+2022-03-23 15:00:47,648 WARNING Voltage reading differ > 1V: current value is 10.977049V previous 4.1882124V temperature 91.28537739929905°K current 5.224489795918367e-07A
+2022-03-23 15:00:48,981 WARNING Voltage reading differ > 1V: current value is 4.18517307V previous 10.977049V temperature 91.28023946851144°K current 5.224489795918367e-07A
+2022-03-23 15:00:50,052 WARNING Voltage reading differ > 1V: current value is 11.0213922V previous 4.18517307V temperature 91.27686358873981°K current 5.224489795918367e-07A
+2022-03-23 15:00:50,186 INFO T:91.30°K V:7.6024e+00V I:5.2245e-07A R:1.4551e+07𝛀 E:2.5299e+02Vcm J:1.7023e-05A/cm2 𝛒:1.4861e+07𝛀cm
+2022-03-23 15:00:50,200 INFO Measurement at current 5.408163265306123e-07
+2022-03-23 15:00:51,246 WARNING Voltage reading differ > 1V: current value is 4.33128199V previous 11.0213922V temperature 91.27217358813027°K current 5.408163265306123e-07A
+2022-03-23 15:00:53,907 WARNING Voltage reading differ > 1V: current value is 11.0741164V previous 4.33503123V temperature 91.26270418757838°K current 5.408163265306123e-07A
+2022-03-23 15:00:55,061 WARNING Voltage reading differ > 1V: current value is 4.33249406V previous 11.0741164V temperature 91.2585217128609°K current 5.408163265306123e-07A
+2022-03-23 15:00:59,332 WARNING Voltage reading differ > 1V: current value is 11.0845569V previous 4.33661887V temperature 91.24373404908371°K current 5.408163265306123e-07A
+2022-03-23 15:01:00,589 WARNING Voltage reading differ > 1V: current value is 4.33950904V previous 11.0845569V temperature 91.23937241181767°K current 5.408163265306123e-07A
+2022-03-23 15:01:03,916 INFO T:91.25°K V:5.6806e+00V I:5.4082e-07A R:1.0504e+07𝛀 E:1.8904e+02Vcm J:1.7622e-05A/cm2 𝛒:1.0727e+07𝛀cm
+2022-03-23 15:01:03,966 INFO Measurement at current 5.591836734693877e-07
+2022-03-23 15:01:19,478 INFO T:91.20°K V:4.4974e+00V I:5.5918e-07A R:8.0427e+06𝛀 E:1.4966e+02Vcm J:1.8220e-05A/cm2 𝛒:8.2140e+06𝛀cm
+2022-03-23 15:01:19,492 INFO Measurement at current 5.775510204081632e-07
+2022-03-23 15:01:34,679 INFO T:91.15°K V:4.6536e+00V I:5.7755e-07A R:8.0574e+06𝛀 E:1.5486e+02Vcm J:1.8819e-05A/cm2 𝛒:8.2290e+06𝛀cm
+2022-03-23 15:01:34,729 INFO Measurement at current 5.959183673469388e-07
+2022-03-23 15:01:50,036 INFO T:91.09°K V:4.7990e+00V I:5.9592e-07A R:8.0531e+06𝛀 E:1.5970e+02Vcm J:1.9417e-05A/cm2 𝛒:8.2246e+06𝛀cm
+2022-03-23 15:01:50,078 INFO Measurement at current 6.142857142857142e-07
+2022-03-23 15:02:05,210 INFO T:91.04°K V:4.9532e+00V I:6.1429e-07A R:8.0634e+06𝛀 E:1.6483e+02Vcm J:2.0016e-05A/cm2 𝛒:8.2352e+06𝛀cm
+2022-03-23 15:02:05,245 INFO Measurement at current 6.326530612244898e-07
+2022-03-23 15:02:20,309 INFO T:90.99°K V:5.0958e+00V I:6.3265e-07A R:8.0546e+06𝛀 E:1.6958e+02Vcm J:2.0614e-05A/cm2 𝛒:8.2262e+06𝛀cm
+2022-03-23 15:02:20,329 INFO Measurement at current 6.510204081632653e-07
+2022-03-23 15:02:35,315 INFO T:90.95°K V:5.2626e+00V I:6.5102e-07A R:8.0836e+06𝛀 E:1.7513e+02Vcm J:2.1213e-05A/cm2 𝛒:8.2558e+06𝛀cm
+2022-03-23 15:02:35,355 INFO Measurement at current 6.693877551020407e-07
+2022-03-23 15:02:50,362 INFO T:90.90°K V:5.4201e+00V I:6.6939e-07A R:8.0970e+06𝛀 E:1.8037e+02Vcm J:2.1811e-05A/cm2 𝛒:8.2695e+06𝛀cm
+2022-03-23 15:02:50,406 INFO Measurement at current 6.877551020408163e-07
+2022-03-23 15:03:05,410 INFO T:90.86°K V:5.5314e+00V I:6.8776e-07A R:8.0426e+06𝛀 E:1.8407e+02Vcm J:2.2410e-05A/cm2 𝛒:8.2139e+06𝛀cm
+2022-03-23 15:03:05,424 INFO Measurement at current 7.061224489795918e-07
+2022-03-23 15:03:20,288 INFO T:90.81°K V:5.6760e+00V I:7.0612e-07A R:8.0383e+06𝛀 E:1.8889e+02Vcm J:2.3008e-05A/cm2 𝛒:8.2095e+06𝛀cm
+2022-03-23 15:03:20,325 INFO Measurement at current 7.244897959183673e-07
+2022-03-23 15:03:35,277 INFO T:90.77°K V:5.7962e+00V I:7.2449e-07A R:8.0004e+06𝛀 E:1.9289e+02Vcm J:2.3607e-05A/cm2 𝛒:8.1708e+06𝛀cm
+2022-03-23 15:03:35,291 INFO Measurement at current 7.428571428571428e-07
+2022-03-23 15:03:50,209 INFO T:90.73°K V:5.9574e+00V I:7.4286e-07A R:8.0196e+06𝛀 E:1.9825e+02Vcm J:2.4205e-05A/cm2 𝛒:8.1904e+06𝛀cm
+2022-03-23 15:03:50,242 INFO Measurement at current 7.612244897959183e-07
+2022-03-23 15:04:05,015 INFO T:90.69°K V:6.0979e+00V I:7.6122e-07A R:8.0107e+06𝛀 E:2.0293e+02Vcm J:2.4804e-05A/cm2 𝛒:8.1813e+06𝛀cm
+2022-03-23 15:04:05,026 INFO Measurement at current 7.795918367346938e-07
+2022-03-23 15:04:19,974 INFO T:90.65°K V:6.2493e+00V I:7.7959e-07A R:8.0161e+06𝛀 E:2.0796e+02Vcm J:2.5402e-05A/cm2 𝛒:8.1868e+06𝛀cm
+2022-03-23 15:04:20,000 INFO Measurement at current 7.979591836734693e-07
+2022-03-23 15:04:34,838 INFO T:90.61°K V:6.4368e+00V I:7.9796e-07A R:8.0666e+06𝛀 E:2.1420e+02Vcm J:2.6001e-05A/cm2 𝛒:8.2384e+06𝛀cm
+2022-03-23 15:04:34,866 INFO Measurement at current 8.163265306122449e-07
+2022-03-23 15:04:49,729 INFO T:90.57°K V:6.6227e+00V I:8.1633e-07A R:8.1129e+06𝛀 E:2.2039e+02Vcm J:2.6599e-05A/cm2 𝛒:8.2857e+06𝛀cm
+2022-03-23 15:04:49,749 INFO Measurement at current 8.346938775510204e-07
+2022-03-23 15:05:04,614 INFO T:90.54°K V:6.7723e+00V I:8.3469e-07A R:8.1135e+06𝛀 E:2.2537e+02Vcm J:2.7198e-05A/cm2 𝛒:8.2863e+06𝛀cm
+2022-03-23 15:05:04,661 INFO Measurement at current 8.530612244897958e-07
+2022-03-23 15:05:19,525 INFO T:90.50°K V:6.8764e+00V I:8.5306e-07A R:8.0609e+06𝛀 E:2.2883e+02Vcm J:2.7796e-05A/cm2 𝛒:8.2325e+06𝛀cm
+2022-03-23 15:05:19,551 INFO Measurement at current 8.714285714285714e-07
+2022-03-23 15:05:34,332 INFO T:90.47°K V:7.0423e+00V I:8.7143e-07A R:8.0813e+06𝛀 E:2.3435e+02Vcm J:2.8395e-05A/cm2 𝛒:8.2535e+06𝛀cm
+2022-03-23 15:05:34,351 INFO Measurement at current 8.897959183673469e-07
+2022-03-23 15:05:49,153 INFO T:90.43°K V:7.1791e+00V I:8.8980e-07A R:8.0683e+06𝛀 E:2.3891e+02Vcm J:2.8993e-05A/cm2 𝛒:8.2401e+06𝛀cm
+2022-03-23 15:05:49,166 INFO Measurement at current 9.081632653061224e-07
+2022-03-23 15:06:03,948 INFO T:90.40°K V:7.3069e+00V I:9.0816e-07A R:8.0458e+06𝛀 E:2.4316e+02Vcm J:2.9592e-05A/cm2 𝛒:8.2171e+06𝛀cm
+2022-03-23 15:06:03,977 INFO Measurement at current 9.265306122448979e-07
+2022-03-23 15:06:18,724 INFO T:90.37°K V:7.4807e+00V I:9.2653e-07A R:8.0739e+06𝛀 E:2.4894e+02Vcm J:3.0190e-05A/cm2 𝛒:8.2459e+06𝛀cm
+2022-03-23 15:06:18,766 INFO Measurement at current 9.448979591836734e-07
+2022-03-23 15:06:33,570 INFO T:90.34°K V:7.6036e+00V I:9.4490e-07A R:8.0470e+06𝛀 E:2.5303e+02Vcm J:3.0788e-05A/cm2 𝛒:8.2184e+06𝛀cm
+2022-03-23 15:06:33,593 INFO Measurement at current 9.632653061224489e-07
+2022-03-23 15:06:48,318 INFO T:90.31°K V:7.7779e+00V I:9.6327e-07A R:8.0745e+06𝛀 E:2.5883e+02Vcm J:3.1387e-05A/cm2 𝛒:8.2465e+06𝛀cm
+2022-03-23 15:06:48,333 INFO Measurement at current 9.816326530612244e-07
+2022-03-23 15:07:03,061 INFO T:90.28°K V:7.8657e+00V I:9.8163e-07A R:8.0128e+06𝛀 E:2.6175e+02Vcm J:3.1985e-05A/cm2 𝛒:8.1835e+06𝛀cm
+2022-03-23 15:07:03,075 INFO Measurement at current 1e-06
+2022-03-23 15:07:17,931 INFO T:90.25°K V:8.0344e+00V I:1.0000e-06A R:8.0344e+06𝛀 E:2.6737e+02Vcm J:3.2584e-05A/cm2 𝛒:8.2055e+06𝛀cm
+2022-03-23 15:09:57,793 INFO Save the description file
+2022-03-23 15:09:57,795 INFO Save data in numpy format CA12X2_A/CA12X2_A_current_from_0.1e-6_to_1e-6A/CA12X2_A_current_from_0.1e-6_to_1e-6A-20220323150955
+2022-03-23 15:09:57,814 INFO Save data in CSV format CA12X2_A/CA12X2_A_current_from_0.1e-6_to_1e-6A/CA12X2_A_current_from_0.1e-6_to_1e-6A-20220323150955.csv
+2022-03-23 15:09:57,836 INFO Save plot as image CA12X2_A/CA12X2_A_current_from_0.1e-6_to_1e-6A/CA12X2_A_current_from_0.1e-6_to_1e-6A-20220323150955.png

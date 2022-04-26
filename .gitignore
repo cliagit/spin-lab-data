@@ -1,6 +1,6 @@
-*.py
-*.log
-*.ini
-lib
+#*.py
+#*.log
+#*.ini
+#lib
 .ipynb*
 .~*  

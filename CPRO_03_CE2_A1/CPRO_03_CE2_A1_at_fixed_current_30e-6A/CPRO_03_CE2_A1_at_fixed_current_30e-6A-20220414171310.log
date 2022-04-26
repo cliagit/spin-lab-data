@@ -1,0 +1,49 @@
+2022-04-14 15:45:40,280 INFO ### Start experiment: CPRO_03_CE2_A1 at fixed current 30e-6A ###
+2022-04-14 15:45:41,645 INFO Found Multimeter KEITHLEY INSTRUMENTS INC.,MODEL 2700,0884890,B03  /A02  
+
+2022-04-14 15:45:42,672 INFO Found Nanovolt Meter KEITHLEY INSTRUMENTS INC.,MODEL 2182A,4056474,C03  /A02  
+
+2022-04-14 15:45:42,780 INFO Found Source Meter KEITHLEY INSTRUMENTS INC.,MODEL 6220,1315485,A05  /700x 
+
+2022-04-14 15:45:42,886 INFO Start the measurement loop
+2022-04-14 15:47:23,786 INFO Measurement at current 3e-05
+2022-04-14 15:47:32,155 INFO T:155.05°K V:5.5206e-03V I:3.0000e-05A R:1.8402e+02𝛀 E:3.2724e-01V/cm J:1.7493e-03A/cm2 𝛒:1.8707e+02𝛀 cm
+2022-04-14 15:54:34,076 INFO Measurement at current 3e-05
+2022-04-14 15:54:42,116 INFO T:149.99°K V:7.2612e-03V I:3.0000e-05A R:2.4204e+02𝛀 E:4.3042e-01V/cm J:1.7493e-03A/cm2 𝛒:2.4606e+02𝛀 cm
+2022-04-14 15:56:05,149 WARNING Reading gpib error, check the multimeter: write() failed: A read or write of data bytes has been aborted, possibly due to a timeout or reception of a device clear command.
+2022-04-14 16:02:48,578 INFO Measurement at current 3e-05
+2022-04-14 16:02:56,632 INFO T:145.05°K V:9.6120e-03V I:3.0000e-05A R:3.2040e+02𝛀 E:5.6977e-01V/cm J:1.7493e-03A/cm2 𝛒:3.2572e+02𝛀 cm
+2022-04-14 16:16:13,417 INFO Measurement at current 3e-05
+2022-04-14 16:16:22,383 INFO T:140.08°K V:1.3728e-02V I:3.0000e-05A R:4.5759e+02𝛀 E:8.1373e-01V/cm J:1.7493e-03A/cm2 𝛒:4.6518e+02𝛀 cm
+2022-04-14 16:21:32,347 INFO Measurement at current 3e-05
+2022-04-14 16:21:40,305 INFO T:134.98°K V:1.9065e-02V I:3.0000e-05A R:6.3551e+02𝛀 E:1.1301e+00V/cm J:1.7493e-03A/cm2 𝛒:6.4606e+02𝛀 cm
+2022-04-14 16:27:34,742 INFO Measurement at current 3e-05
+2022-04-14 16:27:42,736 INFO T:130.06°K V:2.6718e-02V I:3.0000e-05A R:8.9059e+02𝛀 E:1.5837e+00V/cm J:1.7493e-03A/cm2 𝛒:9.0537e+02𝛀 cm
+2022-04-14 16:34:53,882 INFO Measurement at current 3e-05
+2022-04-14 16:35:01,834 INFO T:125.10°K V:3.8823e-02V I:3.0000e-05A R:1.2941e+03𝛀 E:2.3013e+00V/cm J:1.7493e-03A/cm2 𝛒:1.3156e+03𝛀 cm
+2022-04-14 16:40:22,365 INFO Measurement at current 3e-05
+2022-04-14 16:40:30,311 INFO T:120.05°K V:5.6906e-02V I:3.0000e-05A R:1.8969e+03𝛀 E:3.3732e+00V/cm J:1.7493e-03A/cm2 𝛒:1.9283e+03𝛀 cm
+2022-04-14 16:41:04,413 WARNING Reading gpib error, check the multimeter: write() failed: A read or write of data bytes has been aborted, possibly due to a timeout or reception of a device clear command.
+2022-04-14 16:46:10,417 INFO Measurement at current 3e-05
+2022-04-14 16:46:18,374 INFO T:115.01°K V:8.6961e-02V I:3.0000e-05A R:2.8987e+03𝛀 E:5.1548e+00V/cm J:1.7493e-03A/cm2 𝛒:2.9468e+03𝛀 cm
+2022-04-14 16:53:00,260 INFO Measurement at current 3e-05
+2022-04-14 16:53:08,911 INFO T:110.07°K V:1.2654e-01V I:3.0000e-05A R:4.2180e+03𝛀 E:7.5009e+00V/cm J:1.7493e-03A/cm2 𝛒:4.2880e+03𝛀 cm
+2022-04-14 16:58:36,596 INFO Measurement at current 3e-05
+2022-04-14 16:58:44,550 INFO T:105.07°K V:1.9717e-01V I:3.0000e-05A R:6.5725e+03𝛀 E:1.1688e+01V/cm J:1.7493e-03A/cm2 𝛒:6.6815e+03𝛀 cm
+2022-04-14 17:04:06,941 INFO Measurement at current 3e-05
+2022-04-14 17:04:14,972 INFO T:100.01°K V:3.4854e-01V I:3.0000e-05A R:1.1618e+04𝛀 E:2.0661e+01V/cm J:1.7493e-03A/cm2 𝛒:1.1811e+04𝛀 cm
+2022-04-14 17:10:24,638 INFO Measurement at current 3e-05
+2022-04-14 17:10:32,688 INFO T:95.07°K V:5.5474e-01V I:3.0000e-05A R:1.8491e+04𝛀 E:3.2883e+01V/cm J:1.7493e-03A/cm2 𝛒:1.8798e+04𝛀 cm
+2022-04-14 17:12:08,344 WARNING Reading gpib error, check the multimeter: read() error: Input/output error (errno: 5)
+2022-04-14 17:12:16,089 WARNING Reading gpib error, check the multimeter: write() failed: An attempt to write command bytes to the bus has timed out.
+2022-04-14 17:12:23,833 WARNING Reading gpib error, check the multimeter: write() failed: An attempt to write command bytes to the bus has timed out.
+2022-04-14 17:12:31,577 WARNING Reading gpib error, check the multimeter: write() failed: An attempt to write command bytes to the bus has timed out.
+2022-04-14 17:12:39,357 WARNING Reading gpib error, check the multimeter: write() failed: An attempt to write command bytes to the bus has timed out.
+2022-04-14 17:12:47,097 WARNING Reading gpib error, check the multimeter: write() failed: An attempt to write command bytes to the bus has timed out.
+2022-04-14 17:12:54,841 WARNING Reading gpib error, check the multimeter: write() failed: An attempt to write command bytes to the bus has timed out.
+2022-04-14 17:13:02,586 WARNING Reading gpib error, check the multimeter: write() failed: An attempt to write command bytes to the bus has timed out.
+2022-04-14 17:13:10,394 WARNING Reading gpib error, check the multimeter: write() failed: An attempt to write command bytes to the bus has timed out.
+2022-04-14 17:13:12,712 INFO Save the description file
+2022-04-14 17:13:12,725 INFO Save data in numpy format CPRO_03_CE2_A1/CPRO_03_CE2_A1_at_fixed_current_30e-6A/CPRO_03_CE2_A1_at_fixed_current_30e-6A-20220414171310
+2022-04-14 17:13:12,742 INFO Save data in CSV format CPRO_03_CE2_A1/CPRO_03_CE2_A1_at_fixed_current_30e-6A/CPRO_03_CE2_A1_at_fixed_current_30e-6A-20220414171310.csv
+2022-04-14 17:13:12,749 INFO Save plot as image CPRO_03_CE2_A1/CPRO_03_CE2_A1_at_fixed_current_30e-6A/CPRO_03_CE2_A1_at_fixed_current_30e-6A-20220414171310.png

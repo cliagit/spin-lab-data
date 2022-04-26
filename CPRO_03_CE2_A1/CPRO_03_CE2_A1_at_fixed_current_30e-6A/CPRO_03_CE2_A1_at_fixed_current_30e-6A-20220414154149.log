@@ -1,0 +1,89 @@
+2022-04-14 14:04:44,202 INFO ### Start experiment: CPRO_03_CE2_A1 at fixed current 30e-6A ###
+2022-04-14 14:04:45,583 INFO Found Multimeter KEITHLEY INSTRUMENTS INC.,MODEL 2700,0884890,B03  /A02  
+
+2022-04-14 14:04:46,615 INFO Found Nanovolt Meter KEITHLEY INSTRUMENTS INC.,MODEL 2182A,4056474,C03  /A02  
+
+2022-04-14 14:04:46,705 INFO Found Source Meter KEITHLEY INSTRUMENTS INC.,MODEL 6220,1315485,A05  /700x 
+
+2022-04-14 14:04:46,808 INFO Start the measurement loop
+2022-04-14 14:04:53,771 INFO Measurement at current 3e-05
+2022-04-14 14:05:02,635 INFO T:295.33°K V:2.6445e-04V I:3.0000e-05A R:8.8148e+00𝛀 E:1.5675e-02V/cm J:1.7493e-03A/cm2 𝛒:8.9611e+00𝛀 cm
+2022-04-14 14:09:44,439 INFO Measurement at current 3e-05
+2022-04-14 14:09:52,500 INFO T:284.79°K V:2.5345e-04V I:3.0000e-05A R:8.4483e+00𝛀 E:1.5024e-02V/cm J:1.7493e-03A/cm2 𝛒:8.5885e+00𝛀 cm
+2022-04-14 14:10:33,104 INFO Measurement at current 3e-05
+2022-04-14 14:10:41,121 INFO T:284.82°K V:2.5329e-04V I:3.0000e-05A R:8.4430e+00𝛀 E:1.5014e-02V/cm J:1.7493e-03A/cm2 𝛒:8.5832e+00𝛀 cm
+2022-04-14 14:13:36,551 INFO Measurement at current 3e-05
+2022-04-14 14:13:44,794 INFO T:275.27°K V:2.4720e-04V I:3.0000e-05A R:8.2401e+00𝛀 E:1.4653e-02V/cm J:1.7493e-03A/cm2 𝛒:8.3768e+00𝛀 cm
+2022-04-14 14:16:07,335 INFO Measurement at current 3e-05
+2022-04-14 14:16:15,378 INFO T:269.94°K V:2.4308e-04V I:3.0000e-05A R:8.1026e+00𝛀 E:1.4409e-02V/cm J:1.7493e-03A/cm2 𝛒:8.2371e+00𝛀 cm
+2022-04-14 14:20:24,372 INFO Measurement at current 3e-05
+2022-04-14 14:20:32,432 INFO T:264.70°K V:3.0421e-04V I:3.0000e-05A R:1.0140e+01𝛀 E:1.8032e-02V/cm J:1.7493e-03A/cm2 𝛒:1.0309e+01𝛀 cm
+2022-04-14 14:22:44,826 INFO Measurement at current 3e-05
+2022-04-14 14:22:52,900 INFO T:260.29°K V:3.1178e-04V I:3.0000e-05A R:1.0393e+01𝛀 E:1.8481e-02V/cm J:1.7493e-03A/cm2 𝛒:1.0565e+01𝛀 cm
+2022-04-14 14:25:02,042 INFO Measurement at current 3e-05
+2022-04-14 14:25:10,131 INFO T:255.09°K V:3.1999e-04V I:3.0000e-05A R:1.0666e+01𝛀 E:1.8968e-02V/cm J:1.7493e-03A/cm2 𝛒:1.0843e+01𝛀 cm
+2022-04-14 14:27:12,951 INFO Measurement at current 3e-05
+2022-04-14 14:27:21,012 INFO T:250.09°K V:3.2811e-04V I:3.0000e-05A R:1.0937e+01𝛀 E:1.9449e-02V/cm J:1.7493e-03A/cm2 𝛒:1.1118e+01𝛀 cm
+2022-04-14 14:30:03,480 INFO Measurement at current 3e-05
+2022-04-14 14:30:11,463 INFO T:245.15°K V:3.3765e-04V I:3.0000e-05A R:1.1255e+01𝛀 E:2.0015e-02V/cm J:1.7493e-03A/cm2 𝛒:1.1442e+01𝛀 cm
+2022-04-14 14:32:01,175 INFO Measurement at current 3e-05
+2022-04-14 14:32:09,206 INFO T:239.97°K V:3.5014e-04V I:3.0000e-05A R:1.1671e+01𝛀 E:2.0755e-02V/cm J:1.7493e-03A/cm2 𝛒:1.1865e+01𝛀 cm
+2022-04-14 14:35:50,598 INFO Measurement at current 3e-05
+2022-04-14 14:35:58,595 INFO T:235.04°K V:3.6935e-04V I:3.0000e-05A R:1.2312e+01𝛀 E:2.1894e-02V/cm J:1.7493e-03A/cm2 𝛒:1.2516e+01𝛀 cm
+2022-04-14 14:38:59,619 INFO Measurement at current 3e-05
+2022-04-14 14:39:07,628 INFO T:230.03°K V:3.8985e-04V I:3.0000e-05A R:1.2995e+01𝛀 E:2.3109e-02V/cm J:1.7493e-03A/cm2 𝛒:1.3211e+01𝛀 cm
+2022-04-14 14:41:21,073 INFO Measurement at current 3e-05
+2022-04-14 14:41:29,082 INFO T:225.08°K V:4.1675e-04V I:3.0000e-05A R:1.3892e+01𝛀 E:2.4703e-02V/cm J:1.7493e-03A/cm2 𝛒:1.4122e+01𝛀 cm
+2022-04-14 14:43:57,459 INFO Measurement at current 3e-05
+2022-04-14 14:44:05,499 INFO T:222.05°K V:4.3389e-04V I:3.0000e-05A R:1.4463e+01𝛀 E:2.5720e-02V/cm J:1.7493e-03A/cm2 𝛒:1.4703e+01𝛀 cm
+2022-04-14 14:46:06,978 INFO Measurement at current 3e-05
+2022-04-14 14:46:14,981 INFO T:220.07°K V:4.5055e-04V I:3.0000e-05A R:1.5018e+01𝛀 E:2.6707e-02V/cm J:1.7493e-03A/cm2 𝛒:1.5267e+01𝛀 cm
+2022-04-14 14:48:24,425 INFO Measurement at current 3e-05
+2022-04-14 14:48:32,496 INFO T:217.97°K V:4.6751e-04V I:3.0000e-05A R:1.5584e+01𝛀 E:2.7713e-02V/cm J:1.7493e-03A/cm2 𝛒:1.5842e+01𝛀 cm
+2022-04-14 14:50:44,074 INFO Measurement at current 3e-05
+2022-04-14 14:50:52,039 INFO T:216.09°K V:4.7930e-04V I:3.0000e-05A R:1.5977e+01𝛀 E:2.8411e-02V/cm J:1.7493e-03A/cm2 𝛒:1.6242e+01𝛀 cm
+2022-04-14 14:52:21,587 INFO Measurement at current 3e-05
+2022-04-14 14:52:29,585 INFO T:214.35°K V:4.8365e-04V I:3.0000e-05A R:1.6122e+01𝛀 E:2.8669e-02V/cm J:1.7493e-03A/cm2 𝛒:1.6389e+01𝛀 cm
+2022-04-14 14:54:53,712 INFO Measurement at current 3e-05
+2022-04-14 14:55:01,801 INFO T:210.07°K V:5.1015e-04V I:3.0000e-05A R:1.7005e+01𝛀 E:3.0240e-02V/cm J:1.7493e-03A/cm2 𝛒:1.7287e+01𝛀 cm
+2022-04-14 14:57:25,255 INFO Measurement at current 3e-05
+2022-04-14 14:57:33,256 INFO T:205.13°K V:5.7283e-04V I:3.0000e-05A R:1.9094e+01𝛀 E:3.3956e-02V/cm J:1.7493e-03A/cm2 𝛒:1.9411e+01𝛀 cm
+2022-04-14 15:00:14,424 INFO Measurement at current 3e-05
+2022-04-14 15:00:22,537 INFO T:199.96°K V:6.6160e-04V I:3.0000e-05A R:2.2053e+01𝛀 E:3.9217e-02V/cm J:1.7493e-03A/cm2 𝛒:2.2419e+01𝛀 cm
+2022-04-14 15:02:51,246 INFO Measurement at current 3e-05
+2022-04-14 15:02:59,313 INFO T:195.03°K V:7.7827e-04V I:3.0000e-05A R:2.5942e+01𝛀 E:4.6133e-02V/cm J:1.7493e-03A/cm2 𝛒:2.6373e+01𝛀 cm
+2022-04-14 15:08:24,078 INFO Measurement at current 3e-05
+2022-04-14 15:08:32,163 INFO T:190.09°K V:9.3442e-04V I:3.0000e-05A R:3.1147e+01𝛀 E:5.5389e-02V/cm J:1.7493e-03A/cm2 𝛒:3.1664e+01𝛀 cm
+2022-04-14 15:12:32,742 INFO Measurement at current 3e-05
+2022-04-14 15:12:40,813 INFO T:185.02°K V:1.1482e-03V I:3.0000e-05A R:3.8272e+01𝛀 E:6.8059e-02V/cm J:1.7493e-03A/cm2 𝛒:3.8907e+01𝛀 cm
+2022-04-14 15:15:46,717 INFO Measurement at current 3e-05
+2022-04-14 15:15:54,769 INFO T:180.07°K V:1.4542e-03V I:3.0000e-05A R:4.8474e+01𝛀 E:8.6202e-02V/cm J:1.7493e-03A/cm2 𝛒:4.9279e+01𝛀 cm
+2022-04-14 15:19:25,101 INFO Measurement at current 3e-05
+2022-04-14 15:19:33,201 INFO T:174.94°K V:1.8774e-03V I:3.0000e-05A R:6.2580e+01𝛀 E:1.1129e-01V/cm J:1.7493e-03A/cm2 𝛒:6.3619e+01𝛀 cm
+2022-04-14 15:24:27,877 INFO Measurement at current 3e-05
+2022-04-14 15:24:35,901 INFO T:170.14°K V:2.3589e-03V I:3.0000e-05A R:7.8629e+01𝛀 E:1.3983e-01V/cm J:1.7493e-03A/cm2 𝛒:7.9934e+01𝛀 cm
+2022-04-14 15:33:48,627 INFO Measurement at current 3e-05
+2022-04-14 15:33:57,565 INFO T:165.08°K V:3.0430e-03V I:3.0000e-05A R:1.0143e+02𝛀 E:1.8038e-01V/cm J:1.7493e-03A/cm2 𝛒:1.0312e+02𝛀 cm
+2022-04-14 15:40:41,552 INFO Measurement at current 3e-05
+2022-04-14 15:40:49,707 INFO T:159.92°K V:4.0214e-03V I:3.0000e-05A R:1.3405e+02𝛀 E:2.3838e-01V/cm J:1.7493e-03A/cm2 𝛒:1.3627e+02𝛀 cm
+2022-04-14 15:41:22,535 WARNING Reading gpib error, check the multimeter: read() failed: An attempt to write command bytes to the bus has timed out.
+2022-04-14 15:41:23,962 WARNING Reading gpib error, check the multimeter: write() error: Bad address (errno: 14)
+2022-04-14 15:41:25,418 WARNING Reading gpib error, check the multimeter: write() error: Bad address (errno: 14)
+2022-04-14 15:41:26,885 WARNING Reading gpib error, check the multimeter: write() error: Bad address (errno: 14)
+2022-04-14 15:41:28,281 WARNING Reading gpib error, check the multimeter: write() error: Bad address (errno: 14)
+2022-04-14 15:41:29,781 WARNING Reading gpib error, check the multimeter: write() error: Bad address (errno: 14)
+2022-04-14 15:41:31,364 WARNING Reading gpib error, check the multimeter: write() error: Bad address (errno: 14)
+2022-04-14 15:41:32,835 WARNING Reading gpib error, check the multimeter: write() error: Bad address (errno: 14)
+2022-04-14 15:41:34,252 WARNING Reading gpib error, check the multimeter: write() error: Bad address (errno: 14)
+2022-04-14 15:41:35,807 WARNING Reading gpib error, check the multimeter: write() error: Bad address (errno: 14)
+2022-04-14 15:41:37,886 WARNING Reading gpib error, check the multimeter: write() error: Input/output error (errno: 5)
+2022-04-14 15:41:39,472 WARNING Reading gpib error, check the multimeter: write() error: Bad address (errno: 14)
+2022-04-14 15:41:41,257 WARNING Reading gpib error, check the multimeter: write() error: Bad address (errno: 14)
+2022-04-14 15:41:42,903 WARNING Reading gpib error, check the multimeter: write() error: Bad address (errno: 14)
+2022-04-14 15:41:44,804 WARNING Reading gpib error, check the multimeter: write() error: Bad address (errno: 14)
+2022-04-14 15:41:46,381 WARNING Reading gpib error, check the multimeter: write() error: Bad address (errno: 14)
+2022-04-14 15:41:48,313 WARNING Reading gpib error, check the multimeter: write() error: Bad address (errno: 14)
+2022-04-14 15:41:51,123 INFO Save the description file
+2022-04-14 15:41:51,127 INFO Save data in numpy format CPRO_03_CE2_A1/CPRO_03_CE2_A1_at_fixed_current_30e-6A/CPRO_03_CE2_A1_at_fixed_current_30e-6A-20220414154149
+2022-04-14 15:41:51,133 INFO Save data in CSV format CPRO_03_CE2_A1/CPRO_03_CE2_A1_at_fixed_current_30e-6A/CPRO_03_CE2_A1_at_fixed_current_30e-6A-20220414154149.csv
+2022-04-14 15:41:51,142 INFO Save plot as image CPRO_03_CE2_A1/CPRO_03_CE2_A1_at_fixed_current_30e-6A/CPRO_03_CE2_A1_at_fixed_current_30e-6A-20220414154149.png
