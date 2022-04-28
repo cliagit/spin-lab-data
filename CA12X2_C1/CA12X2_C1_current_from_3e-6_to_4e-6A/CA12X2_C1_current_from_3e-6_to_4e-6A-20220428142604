@@ -1,0 +1,17 @@
+Electrical characterization experiment of current biased Ca2RuO4 crystal along C-axis as a function of temperature with 2-wire connection on the A-up-and-down.
+Name of the sample: CA12X2_C1
+Area: 5.908e-2cm2
+Length: 0.583e-1cm
+Current source from 3e-6A to 4e-6A
+
+### Experiment 20220428142604 ###
+Date 2022-04-28 start at 14:24:08 end at 14:25:41 duration 0:01:33
+Temperature range from 116.11°K to 116.41°K
+Resistivity:
+	 average 3.1145e+06𝛀 cm
+	 minimum 2.5182e+06𝛀 cm at 116.41°K
+	 maximum 3.4777e+06𝛀 cm at 116.11°K
+Voltage:
+	 average 1.0655e+01V
+	 minimum 9.2458e+00V at 116.24°K
+	 maximum 1.1996e+01V at 116.26°K
