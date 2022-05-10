@@ -1,0 +1,16 @@
+Electrical characterization experiment of current biased Au film with 2-wire connection
+Name of the sample: AU
+Area: 1.248e-2cm2
+Length: 487e-4cm
+Current source starts and ends at 1e-3A through 10e-3A
+
+### Experiment 20220510150726 ###
+Date 2022-05-10 start at 15:06:27 end at 15:07:16 duration 0:00:49
+Resistivity:
+	 average 3.7154e+00𝛀 cm
+	 minimum 3.7125e+00𝛀 cm
+	 maximum 3.7176e+00𝛀 cm
+Voltage:
+	 average 7.9752e-02V
+	 minimum 1.4495e-02V
+	 maximum 1.4507e-01V

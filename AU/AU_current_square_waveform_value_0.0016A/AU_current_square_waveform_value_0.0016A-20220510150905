@@ -1,0 +1,16 @@
+Electrical characterization experiment of current biased Au film with 2-wire connection
+Name of the sample: AU
+Area: 1.248e-2cm2
+Length: 487e-4cm
+Current square waveform source, value 1.6e-3A
+
+### Experiment 20220510150905 ###
+Date 2022-05-10 start at 15:08:26 end at 15:08:49 duration 0:00:23
+Resistivity:
+	 average 3.7126e+00𝛀 cm
+	 minimum 3.7124e+00𝛀 cm
+	 maximum 3.7127e+00𝛀 cm
+Voltage:
+	 average 9.2725e-04V
+	 minimum -2.3181e-02V
+	 maximum 2.3181e-02V
