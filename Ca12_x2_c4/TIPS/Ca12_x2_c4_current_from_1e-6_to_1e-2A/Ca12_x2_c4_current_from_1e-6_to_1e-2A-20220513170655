@@ -1,0 +1,21 @@
+Electrical characterization experiment of current biased Ca2RuO4 pure crystal with 4-wire connection
+Name of the sample: Ca12_x2_c4
+Area: 2.375e-2cm2
+Length: 0.162083e-1cm
+Current source from 1e-6A to 1e-2A
+
+### Experiment 20220513170655 ###
+Date 2022-05-13 start at 17:05:44 end at 17:06:43 duration 0:00:59
+Resistivity:
+	 average 8.3217e+01𝛀 cm
+	 minimum 3.3284e+01𝛀 cm
+	 maximum 2.0893e+02𝛀 cm
+Resistance:
+	 average 5.6792e+01𝛀 cm
+	 minimum 2.2715e+01𝛀 cm
+	 maximum 1.4258e+02𝛀 cm
+Voltage:
+	 average 1.9195e-01V
+	 minimum 1.3609e-04V
+	 maximum 2.3108e-01V
+ -------------------------------------------------------
