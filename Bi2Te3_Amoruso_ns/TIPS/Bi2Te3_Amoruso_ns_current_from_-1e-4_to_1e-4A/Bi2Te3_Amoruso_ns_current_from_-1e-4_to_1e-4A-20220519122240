@@ -1,0 +1,21 @@
+Electrical characterization experiment of current biased Bi2Te3 crystal
+Name of the sample: Bi2Te3_Amoruso_ns
+Area: 2.375e-2cm2
+Length: 8e-2cm
+Current source from -1e-4A to 1e-4A
+
+### Experiment 20220519122240 ###
+Date 2022-05-19 start at 12:20:27 end at 12:22:24 duration 0:01:57
+Resistivity:
+	 average 9.0740e-03𝛀 cm
+	 minimum -2.0237e-01𝛀 cm
+	 maximum 1.6818e-01𝛀 cm
+Resistance:
+	 average 3.0565e-02𝛀 cm
+	 minimum -6.8168e-01𝛀 cm
+	 maximum 5.6649e-01𝛀 cm
+Voltage:
+	 average 3.0870e-07V
+	 minimum -2.8494e-06V
+	 maximum 3.4039e-06V
+ -------------------------------------------------------

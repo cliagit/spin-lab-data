@@ -1,0 +1,21 @@
+Electrical characterization experiment of current biased Bi2Te3 pure crystal with 4-wire connection
+Name of the sample: BT1_02
+Area: 2.375e-2cm2
+Length: 8e-2cm
+Current source from 1e-6A to 1e-4A
+
+### Experiment 20220517124914 ###
+Date 2022-05-17 start at 12:48:02 end at 12:49:00 duration 0:00:58
+Resistivity:
+	 average 1.6508e+00𝛀 cm
+	 minimum 6.9304e-01𝛀 cm
+	 maximum 1.6947e+00𝛀 cm
+Resistance:
+	 average 5.5605e+00𝛀 cm
+	 minimum 2.3344e+00𝛀 cm
+	 maximum 5.7084e+00𝛀 cm
+Voltage:
+	 average 2.8649e-04V
+	 minimum 2.3344e-06V
+	 maximum 5.7082e-04V
+ -------------------------------------------------------
