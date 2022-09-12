@@ -129,9 +129,10 @@ ax1.legend();
 ax2.legend();
 fig.savefig('oscillations_range.png')
 plt.close(fig)
-fig1.savefig('oscillations_amplitude.png')
+fig1.savefig('oscillations_width.png')
 plt.close(fig1)
-fig2.savefig('oscillations_width.png')
+fig2.savefig('oscillations_amplitude.png')
+plt.close(fig2)
 plt.close(fig2)
 
 #plt.show()
