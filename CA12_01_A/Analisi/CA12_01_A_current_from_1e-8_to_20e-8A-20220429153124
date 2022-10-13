@@ -5,11 +5,11 @@ Temperature is quite constant, average value: 108.25°K difference between min a
 
 Source span from 1.960e-08A (1.570e-06A/cm2) to 1.962e-07A (1.572e-05A/cm2)
 
-Minimum amplitude 227.4 V/cm at 2.19e-06 A/cm2
-Maximum amplitude 912.2 at V/cm at 2.03e-06 A/cm2
-Average amplitude 450.0 V/cm
+Minimum amplitude 227.4 V/cm at 1.72e-06 A/cm2
+Maximum amplitude 553.9 at V/cm at 6.49e-06 A/cm2
+Average amplitude 410.6 V/cm
 
 Time interval between peaks:
 Minimum 2176 milliseconds
-Average 2388 milliseconds
-Maximum 3396 milliseconds
+Average 2226 milliseconds
+Maximum 2298 milliseconds

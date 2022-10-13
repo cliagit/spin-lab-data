@@ -1,15 +1,15 @@
 Area 2.5880e-02cm2
 Thickness:1.5300e-02cm
 
-Temperature is constant: 119.74°K
+Temperature is constant: 119.71°K
 
-Source span from 2.091e-07A (8.079e-06A/cm2) to 7.000e-07A (2.705e-05A/cm2)
+Source span from 4.636e-07A (1.791e-05A/cm2) to 7.000e-07A (2.705e-05A/cm2)
 
-Minimum amplitude 94.0 V/cm at 8.08e-06 A/cm2
-Maximum amplitude 553.6 at V/cm at 8.43e-06 A/cm2
-Average amplitude 410.5 V/cm
+Minimum amplitude 407.8 V/cm at 1.79e-05 A/cm2
+Maximum amplitude 432.7 at V/cm at 1.93e-05 A/cm2
+Average amplitude 422.9 V/cm
 
 Time interval between peaks:
 Minimum 2562 milliseconds
-Average 2594 milliseconds
+Average 2596 milliseconds
 Maximum 2650 milliseconds

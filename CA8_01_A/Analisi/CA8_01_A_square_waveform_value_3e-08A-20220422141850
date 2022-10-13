@@ -5,11 +5,11 @@ Temperature is constant: 106.11°K
 
 Source is constant: 3.000e-08A (1.263e-06A/cm2)
 
-Minimum amplitude 488.5 V/cm at 1.26e-06 A/cm2
+Minimum amplitude 508.3 V/cm at 1.26e-06 A/cm2
 Maximum amplitude 547.9 at V/cm at 1.26e-06 A/cm2
-Average amplitude 523.9 V/cm
+Average amplitude 527.8 V/cm
 
 Time interval between peaks:
-Minimum 14950 milliseconds
-Average 15869 milliseconds
-Maximum 16978 milliseconds
+Minimum 11150 milliseconds
+Average 15846 milliseconds
+Maximum 21091 milliseconds
