@@ -1,0 +1,22 @@
+Electrical characterization experiment of current biased (Ca,Pr)2RuO4 crystal along C-axis as a function of temperature with 2-wire connection.
+Name of the sample: CPRO_03_B_D_Ru1
+Area: 2.285e-2cm2
+Length: 0.324e-1cm
+Current source fixed at 100e-6A
+
+### Experiment 20221216161416 ###
+Date 2022-12-16 start at 16:12:43 end at 16:14:16 duration 0:01:33
+Temperature range from 239.46°K to 241.37°K
+Resistivity:
+	 average 7.0936e+00𝛀 cm
+	 minimum 7.0800e+00𝛀 cm at 239.58°K
+	 maximum 7.1026e+00𝛀 cm at 241.06°K
+Resistance:
+	 average 1.0058e+01𝛀 cm
+	 minimum 1.0039e+01𝛀 cm
+	 maximum 1.0071e+01𝛀 cm
+Voltage:
+	 average 1.0058e-03V
+	 minimum 1.0039e-03V at 239.58°K
+	 maximum 1.0071e-03V at 241.06°K
+ -------------------------------------------------------
