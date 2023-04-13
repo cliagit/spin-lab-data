@@ -1,0 +1,77 @@
+2023-04-13 16:40:29,113 INFO ### Start experiment: CPRO_MUSA_130423_I_V current from 0 to 35e-4A ###
+2023-04-13 16:40:30,466 INFO Found Multimeter KEITHLEY INSTRUMENTS INC.,MODEL 2700,0884890,B03  /A02  
+
+2023-04-13 16:40:31,490 INFO Found Nanovolt Meter KEITHLEY INSTRUMENTS INC.,MODEL 2182A,4056474,C03  /A02  
+
+2023-04-13 16:40:31,611 INFO Found Source Meter KEITHLEY INSTRUMENTS INC.,MODEL 2400,0945684,C24   Feb 14 2002 11:59:45/A02  /K/H
+
+2023-04-13 16:40:31,755 INFO Start the measurement loop
+2023-04-13 16:40:41,669 INFO Measurement at current 0.0
+2023-04-13 16:40:42,581 INFO T:143.58°K V:-1.5722e-05V I:0.0000e+00A R:-inf𝛀 E:-4.8525e-04V/cm J:0.0000e+00A/cm2 𝛒:-inf𝛀 cm
+2023-04-13 16:40:42,605 INFO Measurement at current 1.7587939698492464e-05
+2023-04-13 16:40:43,204 INFO T:143.57°K V:2.7813e-04V I:1.7588e-05A R:1.5814e+01𝛀 E:8.5843e-03V/cm J:7.6971e-04A/cm2 𝛒:1.1153e+01𝛀 cm
+2023-04-13 16:40:43,237 INFO Measurement at current 3.517587939698493e-05
+2023-04-13 16:40:43,844 INFO T:143.57°K V:5.7205e-04V I:3.5176e-05A R:1.6263e+01𝛀 E:1.7656e-02V/cm J:1.5394e-03A/cm2 𝛒:1.1469e+01𝛀 cm
+2023-04-13 16:40:43,862 INFO Measurement at current 5.2763819095477394e-05
+2023-04-13 16:40:44,463 INFO T:143.56°K V:8.6624e-04V I:5.2764e-05A R:1.6417e+01𝛀 E:2.6736e-02V/cm J:2.3091e-03A/cm2 𝛒:1.1578e+01𝛀 cm
+2023-04-13 16:40:44,482 INFO Measurement at current 7.035175879396985e-05
+2023-04-13 16:40:45,075 INFO T:143.56°K V:1.1605e-03V I:7.0352e-05A R:1.6496e+01𝛀 E:3.5819e-02V/cm J:3.0789e-03A/cm2 𝛒:1.1634e+01𝛀 cm
+2023-04-13 16:40:45,095 INFO Measurement at current 8.793969849246232e-05
+2023-04-13 16:40:45,700 INFO T:143.55°K V:1.4551e-03V I:8.7940e-05A R:1.6546e+01𝛀 E:4.4910e-02V/cm J:3.8486e-03A/cm2 𝛒:1.1669e+01𝛀 cm
+2023-04-13 16:40:45,725 INFO Measurement at current 0.00010552763819095479
+2023-04-13 16:40:46,333 INFO T:143.54°K V:1.7506e-03V I:1.0553e-04A R:1.6589e+01𝛀 E:5.4030e-02V/cm J:4.6183e-03A/cm2 𝛒:1.1699e+01𝛀 cm
+2023-04-13 16:40:46,355 INFO Measurement at current 0.00012311557788944724
+2023-04-13 16:40:46,957 INFO T:143.54°K V:2.0447e-03V I:1.2312e-04A R:1.6608e+01𝛀 E:6.3108e-02V/cm J:5.3880e-03A/cm2 𝛒:1.1713e+01𝛀 cm
+2023-04-13 16:40:46,978 INFO Measurement at current 0.0001407035175879397
+2023-04-13 16:40:47,585 INFO T:143.53°K V:2.3401e-03V I:1.4070e-04A R:1.6631e+01𝛀 E:7.2225e-02V/cm J:6.1577e-03A/cm2 𝛒:1.1729e+01𝛀 cm
+2023-04-13 16:40:47,601 INFO Measurement at current 0.00015829145728643218
+2023-04-13 16:40:48,198 INFO T:143.53°K V:2.6358e-03V I:1.5829e-04A R:1.6651e+01𝛀 E:8.1351e-02V/cm J:6.9274e-03A/cm2 𝛒:1.1743e+01𝛀 cm
+2023-04-13 16:40:48,221 INFO Measurement at current 0.00017587939698492463
+2023-04-13 16:40:48,825 INFO T:143.52°K V:2.9316e-03V I:1.7588e-04A R:1.6668e+01𝛀 E:9.0482e-02V/cm J:7.6971e-03A/cm2 𝛒:1.1755e+01𝛀 cm
+2023-04-13 16:40:48,848 INFO Measurement at current 0.0001934673366834171
+2023-04-13 16:40:49,449 INFO T:143.52°K V:3.2269e-03V I:1.9347e-04A R:1.6679e+01𝛀 E:9.9595e-02V/cm J:8.4668e-03A/cm2 𝛒:1.1763e+01𝛀 cm
+2023-04-13 16:40:49,468 INFO Measurement at current 0.00021105527638190958
+2023-04-13 16:40:50,055 INFO T:143.51°K V:3.5229e-03V I:2.1106e-04A R:1.6692e+01𝛀 E:1.0873e-01V/cm J:9.2366e-03A/cm2 𝛒:1.1772e+01𝛀 cm
+2023-04-13 16:40:50,072 INFO Measurement at current 0.00022864321608040202
+2023-04-13 16:40:50,688 INFO T:143.51°K V:3.8190e-03V I:2.2864e-04A R:1.6703e+01𝛀 E:1.1787e-01V/cm J:1.0006e-02A/cm2 𝛒:1.1780e+01𝛀 cm
+2023-04-13 16:40:51,712 INFO Measurement at current 0.00024623115577889447
+2023-04-13 16:40:53,865 WARNING Reading gpib error, check the instruments: read() error: Input/output error (errno: 5)
+2023-04-13 16:41:01,018 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:41:08,196 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:41:15,353 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:41:22,521 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:41:29,689 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:41:36,858 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:41:44,025 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:41:51,193 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:41:58,361 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:42:05,529 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:42:12,712 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:42:19,916 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:42:27,069 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:42:34,235 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:42:41,411 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:42:48,604 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:42:55,769 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:43:02,937 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:43:10,105 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:43:17,274 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:43:24,442 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:43:31,610 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:43:38,797 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:43:45,950 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:43:53,125 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:44:00,281 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:44:07,454 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:44:14,629 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:44:21,805 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:44:28,999 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:44:35,546 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2023-04-13 16:44:35,547 WARNING Reading gpib error, check the instruments: write() error: No such device (errno: 19)
+2023-04-13 16:44:35,547 INFO Leaving the current loop
+2023-04-13 16:44:35,548 WARNING Writing gpib error, check the source meter: write() error: No such device (errno: 19)
+2023-04-13 16:44:35,553 INFO End of the measurement loop
+2023-04-13 16:44:38,128 INFO Save the description file
+2023-04-13 16:44:38,133 INFO Save data in numpy format Esperimenti/CPRO_MUSA_130423_I_V/CPRO_MUSA_130423_I_V_current_from_0_to_35e-4A/CPRO_MUSA_130423_I_V_current_from_0_to_35e-4A-20230413164435
+2023-04-13 16:44:38,147 INFO Save data in CSV format Esperimenti/CPRO_MUSA_130423_I_V/CPRO_MUSA_130423_I_V_current_from_0_to_35e-4A/CPRO_MUSA_130423_I_V_current_from_0_to_35e-4A-20230413164435.csv
+2023-04-13 16:44:38,156 INFO Save plot as image Esperimenti/CPRO_MUSA_130423_I_V/CPRO_MUSA_130423_I_V_current_from_0_to_35e-4A/CPRO_MUSA_130423_I_V_current_from_0_to_35e-4A-20230413164435.png
