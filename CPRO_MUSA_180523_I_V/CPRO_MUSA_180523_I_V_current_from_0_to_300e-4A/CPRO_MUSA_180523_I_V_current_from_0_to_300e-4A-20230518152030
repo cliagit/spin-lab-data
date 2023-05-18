@@ -1,0 +1,22 @@
+I-V characterization experiment of current biased CPRO crystal along in c-axis as a function of temperature with 2-wires connection.
+Name of the sample: CPRO_MUSA_180523_I_V
+Area: 0.109cm2
+Length: 0.064cm
+Current source from 0A to 300e-4A
+
+### Experiment 20230518152030 ###
+Date 2023-05-18 start at 15:18:23 end at 15:20:30 duration 0:02:07
+Temperature range from 110.79°K to 111.58°K
+Resistivity:
+	 average inf𝛀 cm
+	 minimum 1.7464e+02𝛀 cm at 111.58°K
+	 maximum inf𝛀 cm at 110.79°K
+Resistance:
+	 average inf𝛀 cm
+	 minimum 1.0254e+02𝛀 cm
+	 maximum inf𝛀 cm
+Voltage:
+	 average 1.3428e+00V
+	 minimum 5.6319e-06V at 110.79°K
+	 maximum 2.0279e+00V at 111.44°K
+ -------------------------------------------------------
