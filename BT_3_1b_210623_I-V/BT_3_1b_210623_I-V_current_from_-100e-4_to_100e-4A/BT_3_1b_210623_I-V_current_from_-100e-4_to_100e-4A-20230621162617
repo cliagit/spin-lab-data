@@ -1,0 +1,22 @@
+I-V characterization experiment of current biased Bi2Te3 crystal with 4-wires connection.
+Name of the sample: BT_3_1b_210623_I-V
+Area: 0.089cm2
+Length: 0.052cm
+Current source from -100e-4A to 100e-4A
+
+### Experiment 20230621162617 ###
+Date 2023-06-21 start at 16:15:30 end at 16:25:35 duration 0:10:05
+Temperature range from 288.61°K to 292.01°K
+Resistivity:
+	 average 8.7448e-02𝛀 cm
+	 minimum -6.1639e-02𝛀 cm at 290.61°K
+	 maximum 2.3647e-01𝛀 cm at 290.62°K
+Resistance:
+	 average 5.1093e-02𝛀 cm
+	 minimum -3.6014e-02𝛀 cm
+	 maximum 1.3816e-01𝛀 cm
+Voltage:
+	 average 5.0536e-06V
+	 minimum -5.0411e-04V at 288.61°K
+	 maximum 5.1695e-04V at 292.01°K
+ -------------------------------------------------------
