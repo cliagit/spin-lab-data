@@ -1,0 +1,36 @@
+2023-06-21 13:00:54,179 INFO ### Start experiment: BT_3_1b_210623_R-T at fixed current 1e-4A ###
+2023-06-21 13:00:55,521 INFO Found Multimeter KEITHLEY INSTRUMENTS INC.,MODEL 2700,0884890,B03  /A02  
+
+2023-06-21 13:00:56,551 INFO Found Nanovolt Meter KEITHLEY INSTRUMENTS INC.,MODEL 2182A,4056474,C03  /A02  
+
+2023-06-21 13:00:56,688 INFO Found Source Meter KEITHLEY INSTRUMENTS INC.,MODEL 2400,0945684,C24   Feb 14 2002 11:59:45/A02  /K/H
+
+2023-06-21 13:01:06,929 INFO Start the measurement loop in continuous mode
+2023-06-21 13:01:06,965 INFO Measurement at current 0.0001
+2023-06-21 13:01:11,349 INFO T:297.81°K V:5.1555e-06V I:1.0000e-04A R:5.1555e-02𝛀 E:9.9144e-05V/cm J:1.1236e-03A/cm2 𝛒:8.8239e-02𝛀 cm
+2023-06-21 13:01:11,367 INFO Measurement at current 0.0001
+2023-06-21 13:01:15,398 INFO T:297.80°K V:4.8998e-06V I:1.0000e-04A R:4.8998e-02𝛀 E:9.4227e-05V/cm J:1.1236e-03A/cm2 𝛒:8.3862e-02𝛀 cm
+2023-06-21 13:01:15,424 INFO Measurement at current 0.0001
+2023-06-21 13:01:19,460 INFO T:297.79°K V:4.8193e-06V I:1.0000e-04A R:4.8193e-02𝛀 E:9.2679e-05V/cm J:1.1236e-03A/cm2 𝛒:8.2484e-02𝛀 cm
+2023-06-21 13:01:19,477 INFO Measurement at current 0.0001
+2023-06-21 13:01:23,502 INFO T:297.79°K V:2.3897e-06V I:1.0000e-04A R:2.3897e-02𝛀 E:4.5956e-05V/cm J:1.1236e-03A/cm2 𝛒:4.0901e-02𝛀 cm
+2023-06-21 13:01:23,524 INFO Measurement at current 0.0001
+2023-06-21 13:01:25,858 WARNING Reading gpib error, check the instruments: read() failed: A read or write of data bytes has been aborted, possibly due to a timeout or reception of a device clear command.
+2023-06-21 13:01:25,875 INFO Measurement at current 0.0001
+2023-06-21 13:01:26,476 WARNING Temperature out of range!
+2023-06-21 13:01:26,501 INFO Measurement at current 0.0001
+2023-06-21 13:01:30,551 INFO T:297.78°K V:4.4727e-06V I:1.0000e-04A R:4.4727e-02𝛀 E:8.6014e-05V/cm J:1.1236e-03A/cm2 𝛒:7.6553e-02𝛀 cm
+2023-06-21 13:01:30,574 INFO Measurement at current 0.0001
+2023-06-21 13:01:34,651 INFO T:297.77°K V:4.4541e-06V I:1.0000e-04A R:4.4541e-02𝛀 E:8.5657e-05V/cm J:1.1236e-03A/cm2 𝛒:7.6234e-02𝛀 cm
+2023-06-21 13:01:34,666 INFO Measurement at current 0.0001
+2023-06-21 13:01:38,656 INFO T:297.77°K V:5.6503e-06V I:1.0000e-04A R:5.6503e-02𝛀 E:1.0866e-04V/cm J:1.1236e-03A/cm2 𝛒:9.6707e-02𝛀 cm
+2023-06-21 13:01:38,672 INFO Measurement at current 0.0001
+2023-06-21 13:01:42,740 INFO T:297.76°K V:4.2288e-06V I:1.0000e-04A R:4.2288e-02𝛀 E:8.1323e-05V/cm J:1.1236e-03A/cm2 𝛒:7.2377e-02𝛀 cm
+2023-06-21 13:01:42,756 INFO Measurement at current 0.0001
+2023-06-21 13:01:46,810 INFO T:297.76°K V:3.9542e-06V I:1.0000e-04A R:3.9542e-02𝛀 E:7.6042e-05V/cm J:1.1236e-03A/cm2 𝛒:6.7677e-02𝛀 cm
+2023-06-21 13:01:46,811 INFO Leaving the current loop
+2023-06-21 13:01:46,833 INFO End of the measurement loop
+2023-06-21 13:01:49,519 INFO Save the description file
+2023-06-21 13:01:49,523 INFO Save data in numpy format Esperimenti/BT_3_1b_210623_R-T/BT_3_1b_210623_R-T_at_fixed_current_1e-4A/BT_3_1b_210623_R-T_at_fixed_current_1e-4A-20230621130146
+2023-06-21 13:01:49,532 INFO Save data in CSV format Esperimenti/BT_3_1b_210623_R-T/BT_3_1b_210623_R-T_at_fixed_current_1e-4A/BT_3_1b_210623_R-T_at_fixed_current_1e-4A-20230621130146.csv
+2023-06-21 13:01:49,541 INFO Save plot as image Esperimenti/BT_3_1b_210623_R-T/BT_3_1b_210623_R-T_at_fixed_current_1e-4A/BT_3_1b_210623_R-T_at_fixed_current_1e-4A-20230621130146.png
