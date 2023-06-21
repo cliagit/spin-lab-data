@@ -1,0 +1,22 @@
+I-V characterization experiment of current biased Bi2Se3 crystal with 4-wires connection.
+Name of the sample: BS_1_1b_210623_I-V
+Area: 0.089cm2
+Length: 0.052cm
+Current source from -100e-4A to 100e-4A
+
+### Experiment 20230621170727 ###
+Date 2023-06-21 start at 16:56:16 end at 17:06:39 duration 0:10:23
+Temperature range from 215.63°K to 236.82°K
+Resistivity:
+	 average 7.7158e-02𝛀 cm
+	 minimum -5.9549e-01𝛀 cm at 224.42°K
+	 maximum 7.4926e-01𝛀 cm at 224.51°K
+Resistance:
+	 average 4.5081e-02𝛀 cm
+	 minimum -3.4793e-01𝛀 cm
+	 maximum 4.3777e-01𝛀 cm
+Voltage:
+	 average -2.4505e-05V
+	 minimum -4.8752e-04V at 236.82°K
+	 maximum 4.1883e-04V at 215.63°K
+ -------------------------------------------------------
