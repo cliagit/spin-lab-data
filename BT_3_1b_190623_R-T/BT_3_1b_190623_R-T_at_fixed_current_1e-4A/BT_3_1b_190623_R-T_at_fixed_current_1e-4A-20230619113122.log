@@ -1,0 +1,240 @@
+2023-06-19 11:26:35,449 INFO ### Start experiment: BT_3_1b_190623_R-T at fixed current 1e-4A ###
+2023-06-19 11:26:36,796 INFO Found Multimeter KEITHLEY INSTRUMENTS INC.,MODEL 2700,0884890,B03  /A02  
+
+2023-06-19 11:26:37,828 INFO Found Nanovolt Meter KEITHLEY INSTRUMENTS INC.,MODEL 2182A,4056474,C03  /A02  
+
+2023-06-19 11:26:37,940 INFO Found Source Meter KEITHLEY INSTRUMENTS INC.,MODEL 2400,0945684,C24   Feb 14 2002 11:59:45/A02  /K/H
+
+2023-06-19 11:26:40,049 WARNING Temperature out of range!
+2023-06-19 11:26:40,696 WARNING Temperature out of range!
+2023-06-19 11:26:41,343 WARNING Temperature out of range!
+2023-06-19 11:26:41,992 WARNING Temperature out of range!
+2023-06-19 11:26:42,139 INFO Start the measurement loop in continuous mode
+2023-06-19 11:26:42,190 INFO Measurement at current 0.0001
+2023-06-19 11:26:43,130 WARNING Temperature out of range!
+2023-06-19 11:26:43,146 INFO Measurement at current 0.0001
+2023-06-19 11:26:43,745 WARNING Temperature out of range!
+2023-06-19 11:26:43,771 INFO Measurement at current 0.0001
+2023-06-19 11:26:44,580 WARNING Temperature out of range!
+2023-06-19 11:26:44,599 INFO Measurement at current 0.0001
+2023-06-19 11:26:45,305 WARNING Temperature out of range!
+2023-06-19 11:26:45,321 INFO Measurement at current 0.0001
+2023-06-19 11:26:45,920 WARNING Temperature out of range!
+2023-06-19 11:26:45,943 INFO Measurement at current 0.0001
+2023-06-19 11:26:46,547 WARNING Temperature out of range!
+2023-06-19 11:26:46,568 INFO Measurement at current 0.0001
+2023-06-19 11:26:47,170 WARNING Temperature out of range!
+2023-06-19 11:26:47,190 INFO Measurement at current 0.0001
+2023-06-19 11:26:47,921 WARNING Temperature out of range!
+2023-06-19 11:26:47,943 INFO Measurement at current 0.0001
+2023-06-19 11:26:48,655 WARNING Temperature out of range!
+2023-06-19 11:26:48,670 INFO Measurement at current 0.0001
+2023-06-19 11:26:49,286 WARNING Temperature out of range!
+2023-06-19 11:26:49,306 INFO Measurement at current 0.0001
+2023-06-19 11:26:49,901 WARNING Temperature out of range!
+2023-06-19 11:26:49,919 INFO Measurement at current 0.0001
+2023-06-19 11:26:50,661 WARNING Temperature out of range!
+2023-06-19 11:26:50,676 INFO Measurement at current 0.0001
+2023-06-19 11:26:51,387 WARNING Temperature out of range!
+2023-06-19 11:26:51,404 INFO Measurement at current 0.0001
+2023-06-19 11:26:52,180 WARNING Temperature out of range!
+2023-06-19 11:26:52,203 INFO Measurement at current 0.0001
+2023-06-19 11:26:52,921 WARNING Temperature out of range!
+2023-06-19 11:26:52,940 INFO Measurement at current 0.0001
+2023-06-19 11:26:53,540 WARNING Temperature out of range!
+2023-06-19 11:26:53,560 INFO Measurement at current 0.0001
+2023-06-19 11:26:54,165 WARNING Temperature out of range!
+2023-06-19 11:26:54,188 INFO Measurement at current 0.0001
+2023-06-19 11:26:54,920 WARNING Temperature out of range!
+2023-06-19 11:26:54,935 INFO Measurement at current 0.0001
+2023-06-19 11:26:55,639 WARNING Temperature out of range!
+2023-06-19 11:26:55,661 INFO Measurement at current 0.0001
+2023-06-19 11:26:56,266 WARNING Temperature out of range!
+2023-06-19 11:26:56,291 INFO Measurement at current 0.0001
+2023-06-19 11:26:57,020 WARNING Temperature out of range!
+2023-06-19 11:26:57,037 INFO Measurement at current 0.0001
+2023-06-19 11:26:57,863 WARNING Temperature out of range!
+2023-06-19 11:26:57,887 INFO Measurement at current 0.0001
+2023-06-19 11:26:58,596 WARNING Temperature out of range!
+2023-06-19 11:26:58,618 INFO Measurement at current 0.0001
+2023-06-19 11:26:59,341 WARNING Temperature out of range!
+2023-06-19 11:26:59,359 INFO Measurement at current 0.0001
+2023-06-19 11:27:00,065 WARNING Temperature out of range!
+2023-06-19 11:27:00,082 INFO Measurement at current 0.0001
+2023-06-19 11:27:00,800 WARNING Temperature out of range!
+2023-06-19 11:27:00,824 INFO Measurement at current 0.0001
+2023-06-19 11:27:01,664 WARNING Temperature out of range!
+2023-06-19 11:27:01,687 INFO Measurement at current 0.0001
+2023-06-19 11:27:02,399 WARNING Temperature out of range!
+2023-06-19 11:27:02,416 INFO Measurement at current 0.0001
+2023-06-19 11:27:03,139 WARNING Temperature out of range!
+2023-06-19 11:27:03,159 INFO Measurement at current 0.0001
+2023-06-19 11:27:03,998 WARNING Temperature out of range!
+2023-06-19 11:27:04,018 INFO Measurement at current 0.0001
+2023-06-19 11:27:04,722 WARNING Temperature out of range!
+2023-06-19 11:27:04,737 INFO Measurement at current 0.0001
+2023-06-19 11:27:05,331 WARNING Temperature out of range!
+2023-06-19 11:27:05,352 INFO Measurement at current 0.0001
+2023-06-19 11:27:05,957 WARNING Temperature out of range!
+2023-06-19 11:27:05,979 INFO Measurement at current 0.0001
+2023-06-19 11:27:06,582 WARNING Temperature out of range!
+2023-06-19 11:27:06,599 INFO Measurement at current 0.0001
+2023-06-19 11:27:07,191 WARNING Temperature out of range!
+2023-06-19 11:27:07,206 INFO Measurement at current 0.0001
+2023-06-19 11:27:07,953 WARNING Temperature out of range!
+2023-06-19 11:27:07,976 INFO Measurement at current 0.0001
+2023-06-19 11:27:08,707 WARNING Temperature out of range!
+2023-06-19 11:27:08,727 INFO Measurement at current 0.0001
+2023-06-19 11:27:09,313 WARNING Temperature out of range!
+2023-06-19 11:27:09,327 INFO Measurement at current 0.0001
+2023-06-19 11:27:09,922 WARNING Temperature out of range!
+2023-06-19 11:27:09,945 INFO Measurement at current 0.0001
+2023-06-19 11:27:10,549 WARNING Temperature out of range!
+2023-06-19 11:27:10,571 INFO Measurement at current 0.0001
+2023-06-19 11:27:11,172 WARNING Temperature out of range!
+2023-06-19 11:27:11,186 INFO Measurement at current 0.0001
+2023-06-19 11:27:11,780 WARNING Temperature out of range!
+2023-06-19 11:27:11,795 INFO Measurement at current 0.0001
+2023-06-19 11:27:12,394 WARNING Temperature out of range!
+2023-06-19 11:27:12,413 INFO Measurement at current 0.0001
+2023-06-19 11:27:13,020 WARNING Temperature out of range!
+2023-06-19 11:27:13,041 INFO Measurement at current 0.0001
+2023-06-19 11:27:13,643 WARNING Temperature out of range!
+2023-06-19 11:27:13,659 INFO Measurement at current 0.0001
+2023-06-19 11:27:14,254 WARNING Temperature out of range!
+2023-06-19 11:27:14,268 INFO Measurement at current 0.0001
+2023-06-19 11:27:14,857 WARNING Temperature out of range!
+2023-06-19 11:27:14,871 INFO Measurement at current 0.0001
+2023-06-19 11:27:15,468 WARNING Temperature out of range!
+2023-06-19 11:27:15,489 INFO Measurement at current 0.0001
+2023-06-19 11:27:16,093 WARNING Temperature out of range!
+2023-06-19 11:27:16,115 INFO Measurement at current 0.0001
+2023-06-19 11:27:16,723 WARNING Temperature out of range!
+2023-06-19 11:27:16,740 INFO Measurement at current 0.0001
+2023-06-19 11:27:20,882 INFO T:303.83°K V:2.1533e-06V I:1.0000e-04A R:2.1533e-02𝛀 E:4.1410e-05V/cm J:1.1236e-03A/cm2 𝛒:3.6855e-02𝛀 cm
+2023-06-19 11:27:20,907 INFO Measurement at current 0.0001
+2023-06-19 11:27:24,920 INFO T:299.61°K V:4.4632e-06V I:1.0000e-04A R:4.4632e-02𝛀 E:8.5832e-05V/cm J:1.1236e-03A/cm2 𝛒:7.6390e-02𝛀 cm
+2023-06-19 11:27:24,952 INFO Measurement at current 0.0001
+2023-06-19 11:27:28,948 INFO T:299.62°K V:3.1340e-06V I:1.0000e-04A R:3.1340e-02𝛀 E:6.0269e-05V/cm J:1.1236e-03A/cm2 𝛒:5.3639e-02𝛀 cm
+2023-06-19 11:27:28,974 INFO Measurement at current 0.0001
+2023-06-19 11:27:33,010 INFO T:299.61°K V:2.6709e-06V I:1.0000e-04A R:2.6709e-02𝛀 E:5.1364e-05V/cm J:1.1236e-03A/cm2 𝛒:4.5714e-02𝛀 cm
+2023-06-19 11:27:33,032 INFO Measurement at current 0.0001
+2023-06-19 11:27:37,041 INFO T:299.61°K V:3.0534e-06V I:1.0000e-04A R:3.0534e-02𝛀 E:5.8719e-05V/cm J:1.1236e-03A/cm2 𝛒:5.2260e-02𝛀 cm
+2023-06-19 11:27:37,058 INFO Measurement at current 0.0001
+2023-06-19 11:27:41,143 INFO T:299.60°K V:2.3617e-06V I:1.0000e-04A R:2.3617e-02𝛀 E:4.5417e-05V/cm J:1.1236e-03A/cm2 𝛒:4.0421e-02𝛀 cm
+2023-06-19 11:27:41,160 INFO Measurement at current 0.0001
+2023-06-19 11:27:45,173 INFO T:299.59°K V:1.6166e-06V I:1.0000e-04A R:1.6166e-02𝛀 E:3.1089e-05V/cm J:1.1236e-03A/cm2 𝛒:2.7669e-02𝛀 cm
+2023-06-19 11:27:45,195 INFO Measurement at current 0.0001
+2023-06-19 11:27:49,319 INFO T:299.58°K V:3.2433e-06V I:1.0000e-04A R:3.2433e-02𝛀 E:6.2372e-05V/cm J:1.1236e-03A/cm2 𝛒:5.5511e-02𝛀 cm
+2023-06-19 11:27:49,354 INFO Measurement at current 0.0001
+2023-06-19 11:27:53,355 INFO T:299.57°K V:2.3169e-06V I:1.0000e-04A R:2.3169e-02𝛀 E:4.4556e-05V/cm J:1.1236e-03A/cm2 𝛒:3.9655e-02𝛀 cm
+2023-06-19 11:27:53,396 INFO Measurement at current 0.0001
+2023-06-19 11:27:57,435 INFO T:299.56°K V:2.7431e-06V I:1.0000e-04A R:2.7431e-02𝛀 E:5.2753e-05V/cm J:1.1236e-03A/cm2 𝛒:4.6950e-02𝛀 cm
+2023-06-19 11:27:57,449 INFO Measurement at current 0.0001
+2023-06-19 11:28:01,461 INFO T:299.55°K V:3.4496e-06V I:1.0000e-04A R:3.4496e-02𝛀 E:6.6338e-05V/cm J:1.1236e-03A/cm2 𝛒:5.9041e-02𝛀 cm
+2023-06-19 11:28:01,490 INFO Measurement at current 0.0001
+2023-06-19 11:28:05,523 INFO T:299.54°K V:2.0532e-06V I:1.0000e-04A R:2.0532e-02𝛀 E:3.9484e-05V/cm J:1.1236e-03A/cm2 𝛒:3.5141e-02𝛀 cm
+2023-06-19 11:28:05,553 INFO Measurement at current 0.0001
+2023-06-19 11:28:09,589 INFO T:299.53°K V:2.9556e-06V I:1.0000e-04A R:2.9556e-02𝛀 E:5.6838e-05V/cm J:1.1236e-03A/cm2 𝛒:5.0586e-02𝛀 cm
+2023-06-19 11:28:09,604 INFO Measurement at current 0.0001
+2023-06-19 11:28:13,587 INFO T:299.52°K V:1.5551e-06V I:1.0000e-04A R:1.5551e-02𝛀 E:2.9905e-05V/cm J:1.1236e-03A/cm2 𝛒:2.6616e-02𝛀 cm
+2023-06-19 11:28:13,600 INFO Measurement at current 0.0001
+2023-06-19 11:28:17,611 INFO T:299.51°K V:2.4550e-06V I:1.0000e-04A R:2.4550e-02𝛀 E:4.7212e-05V/cm J:1.1236e-03A/cm2 𝛒:4.2019e-02𝛀 cm
+2023-06-19 11:28:17,628 INFO Measurement at current 0.0001
+2023-06-19 11:28:21,620 INFO T:299.50°K V:1.8999e-06V I:1.0000e-04A R:1.8999e-02𝛀 E:3.6536e-05V/cm J:1.1236e-03A/cm2 𝛒:3.2517e-02𝛀 cm
+2023-06-19 11:28:21,648 INFO Measurement at current 0.0001
+2023-06-19 11:28:25,625 INFO T:299.49°K V:1.3207e-06V I:1.0000e-04A R:1.3207e-02𝛀 E:2.5398e-05V/cm J:1.1236e-03A/cm2 𝛒:2.2604e-02𝛀 cm
+2023-06-19 11:28:25,642 INFO Measurement at current 0.0001
+2023-06-19 11:28:29,632 INFO T:299.48°K V:5.7827e-06V I:1.0000e-04A R:5.7827e-02𝛀 E:1.1121e-04V/cm J:1.1236e-03A/cm2 𝛒:9.8973e-02𝛀 cm
+2023-06-19 11:28:29,647 INFO Measurement at current 0.0001
+2023-06-19 11:28:33,623 INFO T:299.46°K V:2.9777e-06V I:1.0000e-04A R:2.9777e-02𝛀 E:5.7263e-05V/cm J:1.1236e-03A/cm2 𝛒:5.0964e-02𝛀 cm
+2023-06-19 11:28:33,657 INFO Measurement at current 0.0001
+2023-06-19 11:28:37,738 INFO T:299.44°K V:2.9030e-06V I:1.0000e-04A R:2.9030e-02𝛀 E:5.5827e-05V/cm J:1.1236e-03A/cm2 𝛒:4.9686e-02𝛀 cm
+2023-06-19 11:28:37,756 INFO Measurement at current 0.0001
+2023-06-19 11:28:41,807 INFO T:299.43°K V:2.7792e-06V I:1.0000e-04A R:2.7792e-02𝛀 E:5.3447e-05V/cm J:1.1236e-03A/cm2 𝛒:4.7568e-02𝛀 cm
+2023-06-19 11:28:41,822 INFO Measurement at current 0.0001
+2023-06-19 11:28:45,865 INFO T:299.41°K V:3.0127e-06V I:1.0000e-04A R:3.0127e-02𝛀 E:5.7937e-05V/cm J:1.1236e-03A/cm2 𝛒:5.1564e-02𝛀 cm
+2023-06-19 11:28:45,889 INFO Measurement at current 0.0001
+2023-06-19 11:28:49,879 INFO T:299.38°K V:2.9995e-06V I:1.0000e-04A R:2.9995e-02𝛀 E:5.7682e-05V/cm J:1.1236e-03A/cm2 𝛒:5.1337e-02𝛀 cm
+2023-06-19 11:28:49,902 INFO Measurement at current 0.0001
+2023-06-19 11:28:53,908 INFO T:299.36°K V:3.0210e-06V I:1.0000e-04A R:3.0210e-02𝛀 E:5.8095e-05V/cm J:1.1236e-03A/cm2 𝛒:5.1705e-02𝛀 cm
+2023-06-19 11:28:53,926 INFO Measurement at current 0.0001
+2023-06-19 11:28:57,911 INFO T:299.34°K V:3.0164e-06V I:1.0000e-04A R:3.0164e-02𝛀 E:5.8007e-05V/cm J:1.1236e-03A/cm2 𝛒:5.1626e-02𝛀 cm
+2023-06-19 11:28:57,926 INFO Measurement at current 0.0001
+2023-06-19 11:29:01,888 INFO T:299.32°K V:3.0517e-06V I:1.0000e-04A R:3.0517e-02𝛀 E:5.8686e-05V/cm J:1.1236e-03A/cm2 𝛒:5.2231e-02𝛀 cm
+2023-06-19 11:29:01,902 INFO Measurement at current 0.0001
+2023-06-19 11:29:05,892 INFO T:299.30°K V:3.0822e-06V I:1.0000e-04A R:3.0822e-02𝛀 E:5.9272e-05V/cm J:1.1236e-03A/cm2 𝛒:5.2752e-02𝛀 cm
+2023-06-19 11:29:05,910 INFO Measurement at current 0.0001
+2023-06-19 11:29:09,901 INFO T:299.28°K V:3.1075e-06V I:1.0000e-04A R:3.1075e-02𝛀 E:5.9759e-05V/cm J:1.1236e-03A/cm2 𝛒:5.3186e-02𝛀 cm
+2023-06-19 11:29:09,916 INFO Measurement at current 0.0001
+2023-06-19 11:29:13,985 INFO T:299.26°K V:3.1385e-06V I:1.0000e-04A R:3.1385e-02𝛀 E:6.0357e-05V/cm J:1.1236e-03A/cm2 𝛒:5.3717e-02𝛀 cm
+2023-06-19 11:29:14,026 INFO Measurement at current 0.0001
+2023-06-19 11:29:18,058 INFO T:299.24°K V:3.2140e-06V I:1.0000e-04A R:3.2140e-02𝛀 E:6.1807e-05V/cm J:1.1236e-03A/cm2 𝛒:5.5009e-02𝛀 cm
+2023-06-19 11:29:18,092 INFO Measurement at current 0.0001
+2023-06-19 11:29:22,201 INFO T:299.22°K V:3.3205e-06V I:1.0000e-04A R:3.3205e-02𝛀 E:6.3857e-05V/cm J:1.1236e-03A/cm2 𝛒:5.6832e-02𝛀 cm
+2023-06-19 11:29:22,215 INFO Measurement at current 0.0001
+2023-06-19 11:29:26,245 INFO T:299.21°K V:4.4890e-06V I:1.0000e-04A R:4.4890e-02𝛀 E:8.6327e-05V/cm J:1.1236e-03A/cm2 𝛒:7.6831e-02𝛀 cm
+2023-06-19 11:29:26,274 INFO Measurement at current 0.0001
+2023-06-19 11:29:30,360 INFO T:299.19°K V:4.6968e-06V I:1.0000e-04A R:4.6968e-02𝛀 E:9.0323e-05V/cm J:1.1236e-03A/cm2 𝛒:8.0388e-02𝛀 cm
+2023-06-19 11:29:30,387 INFO Measurement at current 0.0001
+2023-06-19 11:29:34,435 INFO T:299.18°K V:4.6761e-06V I:1.0000e-04A R:4.6761e-02𝛀 E:8.9925e-05V/cm J:1.1236e-03A/cm2 𝛒:8.0034e-02𝛀 cm
+2023-06-19 11:29:34,455 INFO Measurement at current 0.0001
+2023-06-19 11:29:38,445 INFO T:299.16°K V:4.7176e-06V I:1.0000e-04A R:4.7176e-02𝛀 E:9.0724e-05V/cm J:1.1236e-03A/cm2 𝛒:8.0744e-02𝛀 cm
+2023-06-19 11:29:38,461 INFO Measurement at current 0.0001
+2023-06-19 11:29:42,505 INFO T:299.15°K V:4.7517e-06V I:1.0000e-04A R:4.7517e-02𝛀 E:9.1380e-05V/cm J:1.1236e-03A/cm2 𝛒:8.1328e-02𝛀 cm
+2023-06-19 11:29:42,527 INFO Measurement at current 0.0001
+2023-06-19 11:29:46,590 INFO T:299.14°K V:4.7852e-06V I:1.0000e-04A R:4.7852e-02𝛀 E:9.2023e-05V/cm J:1.1236e-03A/cm2 𝛒:8.1901e-02𝛀 cm
+2023-06-19 11:29:46,611 INFO Measurement at current 0.0001
+2023-06-19 11:29:50,644 INFO T:299.12°K V:4.8075e-06V I:1.0000e-04A R:4.8075e-02𝛀 E:9.2452e-05V/cm J:1.1236e-03A/cm2 𝛒:8.2282e-02𝛀 cm
+2023-06-19 11:29:50,660 INFO Measurement at current 0.0001
+2023-06-19 11:29:54,709 INFO T:299.11°K V:4.8256e-06V I:1.0000e-04A R:4.8256e-02𝛀 E:9.2800e-05V/cm J:1.1236e-03A/cm2 𝛒:8.2592e-02𝛀 cm
+2023-06-19 11:29:54,736 INFO Measurement at current 0.0001
+2023-06-19 11:29:58,777 INFO T:299.09°K V:4.8331e-06V I:1.0000e-04A R:4.8331e-02𝛀 E:9.2944e-05V/cm J:1.1236e-03A/cm2 𝛒:8.2720e-02𝛀 cm
+2023-06-19 11:29:58,794 INFO Measurement at current 0.0001
+2023-06-19 11:30:02,820 INFO T:299.08°K V:4.5785e-06V I:1.0000e-04A R:4.5785e-02𝛀 E:8.8048e-05V/cm J:1.1236e-03A/cm2 𝛒:7.8363e-02𝛀 cm
+2023-06-19 11:30:02,849 INFO Measurement at current 0.0001
+2023-06-19 11:30:06,866 INFO T:299.05°K V:-9.0878e-06V I:1.0000e-04A R:-9.0878e-02𝛀 E:-1.7477e-04V/cm J:1.1236e-03A/cm2 𝛒:-1.5554e-01𝛀 cm
+2023-06-19 11:30:06,879 INFO Measurement at current 0.0001
+2023-06-19 11:30:10,869 INFO T:298.90°K V:-2.6657e-05V I:1.0000e-04A R:-2.6657e-01𝛀 E:-5.1264e-04V/cm J:1.1236e-03A/cm2 𝛒:-4.5625e-01𝛀 cm
+2023-06-19 11:30:10,909 INFO Measurement at current 0.0001
+2023-06-19 11:30:14,920 INFO T:298.67°K V:-1.9019e-05V I:1.0000e-04A R:-1.9019e-01𝛀 E:-3.6575e-04V/cm J:1.1236e-03A/cm2 𝛒:-3.2551e-01𝛀 cm
+2023-06-19 11:30:14,936 INFO Measurement at current 0.0001
+2023-06-19 11:30:18,983 INFO T:298.42°K V:-2.4740e-05V I:1.0000e-04A R:-2.4740e-01𝛀 E:-4.7577e-04V/cm J:1.1236e-03A/cm2 𝛒:-4.2343e-01𝛀 cm
+2023-06-19 11:30:19,002 INFO Measurement at current 0.0001
+2023-06-19 11:30:23,026 INFO T:298.18°K V:-2.3888e-05V I:1.0000e-04A R:-2.3888e-01𝛀 E:-4.5938e-04V/cm J:1.1236e-03A/cm2 𝛒:-4.0885e-01𝛀 cm
+2023-06-19 11:30:23,047 INFO Measurement at current 0.0001
+2023-06-19 11:30:27,077 INFO T:297.95°K V:-2.1542e-05V I:1.0000e-04A R:-2.1542e-01𝛀 E:-4.1427e-04V/cm J:1.1236e-03A/cm2 𝛒:-3.6870e-01𝛀 cm
+2023-06-19 11:30:27,102 INFO Measurement at current 0.0001
+2023-06-19 11:30:31,795 WARNING Reading gpib error, check the instruments: read() failed: A read or write of data bytes has been aborted, possibly due to a timeout or reception of a device clear command.
+2023-06-19 11:30:31,810 INFO Measurement at current 0.0001
+2023-06-19 11:30:32,395 WARNING Temperature out of range!
+2023-06-19 11:30:32,409 INFO Measurement at current 0.0001
+2023-06-19 11:30:36,391 INFO T:297.48°K V:-2.0226e-05V I:1.0000e-04A R:-2.0226e-01𝛀 E:-3.8896e-04V/cm J:1.1236e-03A/cm2 𝛒:-3.4617e-01𝛀 cm
+2023-06-19 11:30:36,409 INFO Measurement at current 0.0001
+2023-06-19 11:30:40,399 INFO T:297.29°K V:-1.9897e-05V I:1.0000e-04A R:-1.9897e-01𝛀 E:-3.8264e-04V/cm J:1.1236e-03A/cm2 𝛒:-3.4055e-01𝛀 cm
+2023-06-19 11:30:40,421 INFO Measurement at current 0.0001
+2023-06-19 11:30:44,463 INFO T:297.11°K V:-1.0786e-05V I:1.0000e-04A R:-1.0786e-01𝛀 E:-2.0742e-04V/cm J:1.1236e-03A/cm2 𝛒:-1.8460e-01𝛀 cm
+2023-06-19 11:30:44,499 INFO Measurement at current 0.0001
+2023-06-19 11:30:48,549 INFO T:297.02°K V:8.4127e-06V I:1.0000e-04A R:8.4127e-02𝛀 E:1.6178e-04V/cm J:1.1236e-03A/cm2 𝛒:1.4399e-01𝛀 cm
+2023-06-19 11:30:48,573 INFO Measurement at current 0.0001
+2023-06-19 11:30:52,602 INFO T:297.03°K V:5.9290e-06V I:1.0000e-04A R:5.9290e-02𝛀 E:1.1402e-04V/cm J:1.1236e-03A/cm2 𝛒:1.0148e-01𝛀 cm
+2023-06-19 11:30:52,619 INFO Measurement at current 0.0001
+2023-06-19 11:30:56,587 INFO T:297.08°K V:5.3969e-06V I:1.0000e-04A R:5.3969e-02𝛀 E:1.0379e-04V/cm J:1.1236e-03A/cm2 𝛒:9.2369e-02𝛀 cm
+2023-06-19 11:30:56,607 INFO Measurement at current 0.0001
+2023-06-19 11:31:00,736 INFO T:297.12°K V:5.3139e-06V I:1.0000e-04A R:5.3139e-02𝛀 E:1.0219e-04V/cm J:1.1236e-03A/cm2 𝛒:9.0950e-02𝛀 cm
+2023-06-19 11:31:00,768 INFO Measurement at current 0.0001
+2023-06-19 11:31:04,823 INFO T:297.16°K V:5.2376e-06V I:1.0000e-04A R:5.2376e-02𝛀 E:1.0072e-04V/cm J:1.1236e-03A/cm2 𝛒:8.9643e-02𝛀 cm
+2023-06-19 11:31:04,839 INFO Measurement at current 0.0001
+2023-06-19 11:31:09,494 INFO T:297.20°K V:5.1212e-06V I:1.0000e-04A R:5.1212e-02𝛀 E:9.8484e-05V/cm J:1.1236e-03A/cm2 𝛒:8.7651e-02𝛀 cm
+2023-06-19 11:31:09,521 INFO Measurement at current 0.0001
+2023-06-19 11:31:13,587 INFO T:297.23°K V:4.9934e-06V I:1.0000e-04A R:4.9934e-02𝛀 E:9.6028e-05V/cm J:1.1236e-03A/cm2 𝛒:8.5465e-02𝛀 cm
+2023-06-19 11:31:13,614 INFO Measurement at current 0.0001
+2023-06-19 11:31:18,312 INFO T:297.25°K V:4.8844e-06V I:1.0000e-04A R:4.8844e-02𝛀 E:9.3930e-05V/cm J:1.1236e-03A/cm2 𝛒:8.3598e-02𝛀 cm
+2023-06-19 11:31:18,338 INFO Measurement at current 0.0001
+2023-06-19 11:31:22,406 INFO T:297.26°K V:4.7827e-06V I:1.0000e-04A R:4.7827e-02𝛀 E:9.1975e-05V/cm J:1.1236e-03A/cm2 𝛒:8.1858e-02𝛀 cm
+2023-06-19 11:31:22,408 INFO Leaving the current loop
+2023-06-19 11:31:22,426 INFO End of the measurement loop
+2023-06-19 11:31:24,723 INFO Save the description file
+2023-06-19 11:31:24,732 INFO Save data in numpy format Esperimenti/BT_3_1b_190623_R-T/BT_3_1b_190623_R-T_at_fixed_current_1e-4A/BT_3_1b_190623_R-T_at_fixed_current_1e-4A-20230619113122
+2023-06-19 11:31:24,749 INFO Save data in CSV format Esperimenti/BT_3_1b_190623_R-T/BT_3_1b_190623_R-T_at_fixed_current_1e-4A/BT_3_1b_190623_R-T_at_fixed_current_1e-4A-20230619113122.csv
+2023-06-19 11:31:24,774 INFO Save plot as image Esperimenti/BT_3_1b_190623_R-T/BT_3_1b_190623_R-T_at_fixed_current_1e-4A/BT_3_1b_190623_R-T_at_fixed_current_1e-4A-20230619113122.png

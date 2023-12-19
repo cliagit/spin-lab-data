@@ -1,0 +1,22 @@
+I-V characterization experiment of current biased Sr214 crystal with 4-wires connection.
+Name of the sample: Sr2RuO4 for test
+Area: 0.089cm2
+Length: 0.052cm
+Current source from -1e-6A to 1e-6A
+
+### Experiment 20231215133919 ###
+Date 2023-12-15 start at 11:29:05 end at 13:39:19 duration 2:10:14
+Temperature range from 294.56°K to 296.37°K
+Resistivity:
+	 average -1.8522e-02𝛀 cm
+	 minimum -5.1721e+01𝛀 cm at 294.58°K
+	 maximum 5.2706e+01𝛀 cm at 294.58°K
+Resistance:
+	 average -1.0822e-02𝛀 cm
+	 minimum -3.0219e+01𝛀 cm
+	 maximum 3.0794e+01𝛀 cm
+Voltage:
+	 average 2.0199e-07V
+	 minimum 7.2138e-08V at 294.89°K
+	 maximum 3.3771e-07V at 294.57°K
+ -------------------------------------------------------
