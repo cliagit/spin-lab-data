@@ -1,0 +1,22 @@
+I-V characterization experiment of current biased Bi2Se3 4-wires connection AT current Room Temp.
+Name of the sample: Bi2Se3 for test
+Area: 0.089cm2
+Length: 0.052cm
+Current source fixed at 1.5e-3A
+
+### Experiment 20240110171701 ###
+Date 2024-01-10 start at 16:32:30 end at 17:17:01 duration 0:44:31
+Temperature range from 76.85°K to 260.39°K
+Resistivity:
+	 average 3.0903e-01𝛀 cm
+	 minimum 1.7941e-01𝛀 cm at 259.27°K
+	 maximum 4.8371e-01𝛀 cm at 99.70°K
+Resistance:
+	 average 1.8056e-01𝛀 cm
+	 minimum 1.0482e-01𝛀 cm
+	 maximum 2.8262e-01𝛀 cm
+Voltage:
+	 average 2.7083e-04V
+	 minimum 1.5724e-04V at 259.27°K
+	 maximum 4.2393e-04V at 99.70°K
+ -------------------------------------------------------
