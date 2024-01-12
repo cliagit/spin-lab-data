@@ -1,0 +1,205 @@
+2024-01-12 12:06:05,629 INFO ### Start experiment: Bi2Se3 for test Sample with contact pad, contacts above the sample with Ag with Currentcooling down ar 1.5 mA at fixed current 1.5e-3A ###
+2024-01-12 12:06:06,979 INFO Found Multimeter KEITHLEY INSTRUMENTS INC.,MODEL 2700,0884890,B03  /A02  
+
+2024-01-12 12:06:08,017 INFO Found Nanovolt Meter KEITHLEY INSTRUMENTS INC.,MODEL 2182A,4056474,C03  /A02  
+
+2024-01-12 12:06:08,153 INFO Found Source Meter KEITHLEY INSTRUMENTS INC.,MODEL 2400,0945684,C24   Feb 14 2002 11:59:45/A02  /K/H
+
+2024-01-12 12:06:13,138 INFO Start the measurement loop in continuous mode
+2024-01-12 12:06:13,179 INFO Measurement at current 0.0015
+2024-01-12 12:06:15,111 INFO T:266.26°K V:2.3292e-04V I:1.5000e-03A R:1.5528e-01𝛀 E:4.4792e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6577e-01𝛀 cm
+2024-01-12 12:06:15,132 INFO Measurement at current 0.0015
+2024-01-12 12:06:16,734 INFO T:266.03°K V:2.3193e-04V I:1.5000e-03A R:1.5462e-01𝛀 E:4.4603e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6464e-01𝛀 cm
+2024-01-12 12:06:16,749 INFO Measurement at current 0.0015
+2024-01-12 12:06:18,372 INFO T:265.80°K V:2.3262e-04V I:1.5000e-03A R:1.5508e-01𝛀 E:4.4735e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6543e-01𝛀 cm
+2024-01-12 12:06:18,394 INFO Measurement at current 0.0015
+2024-01-12 12:06:20,012 INFO T:265.55°K V:2.3096e-04V I:1.5000e-03A R:1.5398e-01𝛀 E:4.4416e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6353e-01𝛀 cm
+2024-01-12 12:06:20,034 INFO Measurement at current 0.0015
+2024-01-12 12:06:21,639 INFO T:265.32°K V:2.3020e-04V I:1.5000e-03A R:1.5346e-01𝛀 E:4.4269e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6266e-01𝛀 cm
+2024-01-12 12:06:21,656 INFO Measurement at current 0.0015
+2024-01-12 12:06:23,263 INFO T:265.10°K V:2.3136e-04V I:1.5000e-03A R:1.5424e-01𝛀 E:4.4492e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6399e-01𝛀 cm
+2024-01-12 12:06:23,285 INFO Measurement at current 0.0015
+2024-01-12 12:06:24,897 INFO T:264.86°K V:2.3084e-04V I:1.5000e-03A R:1.5389e-01𝛀 E:4.4392e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6339e-01𝛀 cm
+2024-01-12 12:06:24,918 INFO Measurement at current 0.0015
+2024-01-12 12:06:26,505 INFO T:264.65°K V:2.3257e-04V I:1.5000e-03A R:1.5505e-01𝛀 E:4.4725e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6537e-01𝛀 cm
+2024-01-12 12:06:26,524 INFO Measurement at current 0.0015
+2024-01-12 12:06:28,120 INFO T:264.40°K V:2.3269e-04V I:1.5000e-03A R:1.5513e-01𝛀 E:4.4748e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6550e-01𝛀 cm
+2024-01-12 12:06:28,142 INFO Measurement at current 0.0015
+2024-01-12 12:06:29,745 INFO T:264.16°K V:2.3437e-04V I:1.5000e-03A R:1.5625e-01𝛀 E:4.5071e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6742e-01𝛀 cm
+2024-01-12 12:06:29,764 INFO Measurement at current 0.0015
+2024-01-12 12:06:31,361 INFO T:263.97°K V:2.3262e-04V I:1.5000e-03A R:1.5508e-01𝛀 E:4.4735e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6543e-01𝛀 cm
+2024-01-12 12:06:31,384 INFO Measurement at current 0.0015
+2024-01-12 12:06:32,985 INFO T:263.71°K V:2.3172e-04V I:1.5000e-03A R:1.5448e-01𝛀 E:4.4562e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6440e-01𝛀 cm
+2024-01-12 12:06:33,002 INFO Measurement at current 0.0015
+2024-01-12 12:06:34,596 INFO T:263.49°K V:2.3435e-04V I:1.5000e-03A R:1.5623e-01𝛀 E:4.5066e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6739e-01𝛀 cm
+2024-01-12 12:06:34,617 INFO Measurement at current 0.0015
+2024-01-12 12:06:36,291 INFO T:263.28°K V:2.3514e-04V I:1.5000e-03A R:1.5676e-01𝛀 E:4.5220e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6830e-01𝛀 cm
+2024-01-12 12:06:36,314 INFO Measurement at current 0.0015
+2024-01-12 12:06:37,918 INFO T:263.02°K V:2.3191e-04V I:1.5000e-03A R:1.5461e-01𝛀 E:4.4598e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6462e-01𝛀 cm
+2024-01-12 12:06:37,936 INFO Measurement at current 0.0015
+2024-01-12 12:06:39,539 INFO T:262.79°K V:2.3465e-04V I:1.5000e-03A R:1.5644e-01𝛀 E:4.5126e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6775e-01𝛀 cm
+2024-01-12 12:06:39,562 INFO Measurement at current 0.0015
+2024-01-12 12:06:41,174 INFO T:262.57°K V:2.3437e-04V I:1.5000e-03A R:1.5625e-01𝛀 E:4.5071e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6742e-01𝛀 cm
+2024-01-12 12:06:41,190 INFO Measurement at current 0.0015
+2024-01-12 12:06:42,787 INFO T:262.34°K V:2.3307e-04V I:1.5000e-03A R:1.5538e-01𝛀 E:4.4822e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6594e-01𝛀 cm
+2024-01-12 12:06:42,806 INFO Measurement at current 0.0015
+2024-01-12 12:06:44,437 INFO T:262.11°K V:2.3338e-04V I:1.5000e-03A R:1.5559e-01𝛀 E:4.4882e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6630e-01𝛀 cm
+2024-01-12 12:06:44,459 INFO Measurement at current 0.0015
+2024-01-12 12:06:46,077 INFO T:261.91°K V:2.3386e-04V I:1.5000e-03A R:1.5591e-01𝛀 E:4.4973e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6684e-01𝛀 cm
+2024-01-12 12:06:46,107 INFO Measurement at current 0.0015
+2024-01-12 12:06:47,708 INFO T:261.64°K V:2.3587e-04V I:1.5000e-03A R:1.5725e-01𝛀 E:4.5361e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6914e-01𝛀 cm
+2024-01-12 12:06:47,722 INFO Measurement at current 0.0015
+2024-01-12 12:06:49,312 INFO T:261.43°K V:2.3545e-04V I:1.5000e-03A R:1.5697e-01𝛀 E:4.5278e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6865e-01𝛀 cm
+2024-01-12 12:06:49,334 INFO Measurement at current 0.0015
+2024-01-12 12:06:50,928 INFO T:261.21°K V:2.3470e-04V I:1.5000e-03A R:1.5647e-01𝛀 E:4.5135e-03V/cm J:1.6854e-02A/cm2 𝛒:2.6780e-01𝛀 cm
+2024-01-12 12:06:50,957 INFO Measurement at current 0.0015
+2024-01-12 12:06:52,558 INFO T:260.99°K V:2.3713e-04V I:1.5000e-03A R:1.5809e-01𝛀 E:4.5602e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7057e-01𝛀 cm
+2024-01-12 12:06:52,572 INFO Measurement at current 0.0015
+2024-01-12 12:06:54,166 INFO T:260.76°K V:2.3853e-04V I:1.5000e-03A R:1.5902e-01𝛀 E:4.5872e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7217e-01𝛀 cm
+2024-01-12 12:06:54,188 INFO Measurement at current 0.0015
+2024-01-12 12:06:55,794 INFO T:260.54°K V:2.3702e-04V I:1.5000e-03A R:1.5801e-01𝛀 E:4.5580e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7044e-01𝛀 cm
+2024-01-12 12:06:55,809 INFO Measurement at current 0.0015
+2024-01-12 12:06:57,403 INFO T:260.32°K V:2.3865e-04V I:1.5000e-03A R:1.5910e-01𝛀 E:4.5895e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7231e-01𝛀 cm
+2024-01-12 12:06:57,420 INFO Measurement at current 0.0015
+2024-01-12 12:06:59,040 INFO T:260.09°K V:2.3978e-04V I:1.5000e-03A R:1.5985e-01𝛀 E:4.6112e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7360e-01𝛀 cm
+2024-01-12 12:06:59,062 INFO Measurement at current 0.0015
+2024-01-12 12:07:00,666 INFO T:259.87°K V:2.3965e-04V I:1.5000e-03A R:1.5976e-01𝛀 E:4.6086e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7344e-01𝛀 cm
+2024-01-12 12:07:00,681 INFO Measurement at current 0.0015
+2024-01-12 12:07:02,303 INFO T:259.65°K V:2.3916e-04V I:1.5000e-03A R:1.5944e-01𝛀 E:4.5993e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7289e-01𝛀 cm
+2024-01-12 12:07:02,326 INFO Measurement at current 0.0015
+2024-01-12 12:07:03,926 INFO T:259.42°K V:2.4031e-04V I:1.5000e-03A R:1.6020e-01𝛀 E:4.6213e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7420e-01𝛀 cm
+2024-01-12 12:07:03,942 INFO Measurement at current 0.0015
+2024-01-12 12:07:05,550 INFO T:259.20°K V:2.4130e-04V I:1.5000e-03A R:1.6086e-01𝛀 E:4.6403e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7532e-01𝛀 cm
+2024-01-12 12:07:05,577 INFO Measurement at current 0.0015
+2024-01-12 12:07:07,176 INFO T:258.98°K V:2.4065e-04V I:1.5000e-03A R:1.6043e-01𝛀 E:4.6278e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7458e-01𝛀 cm
+2024-01-12 12:07:07,199 INFO Measurement at current 0.0015
+2024-01-12 12:07:08,812 INFO T:258.77°K V:2.3871e-04V I:1.5000e-03A R:1.5914e-01𝛀 E:4.5905e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7237e-01𝛀 cm
+2024-01-12 12:07:08,828 INFO Measurement at current 0.0015
+2024-01-12 12:07:10,439 INFO T:258.54°K V:2.3907e-04V I:1.5000e-03A R:1.5938e-01𝛀 E:4.5975e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7278e-01𝛀 cm
+2024-01-12 12:07:10,455 INFO Measurement at current 0.0015
+2024-01-12 12:07:12,048 INFO T:258.33°K V:2.3887e-04V I:1.5000e-03A R:1.5924e-01𝛀 E:4.5936e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7255e-01𝛀 cm
+2024-01-12 12:07:12,068 INFO Measurement at current 0.0015
+2024-01-12 12:07:13,680 INFO T:258.11°K V:2.3936e-04V I:1.5000e-03A R:1.5958e-01𝛀 E:4.6032e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7312e-01𝛀 cm
+2024-01-12 12:07:13,696 INFO Measurement at current 0.0015
+2024-01-12 12:07:15,301 INFO T:257.89°K V:2.4110e-04V I:1.5000e-03A R:1.6073e-01𝛀 E:4.6365e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7510e-01𝛀 cm
+2024-01-12 12:07:15,319 INFO Measurement at current 0.0015
+2024-01-12 12:07:16,938 INFO T:257.67°K V:2.4216e-04V I:1.5000e-03A R:1.6144e-01𝛀 E:4.6569e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7631e-01𝛀 cm
+2024-01-12 12:07:16,958 INFO Measurement at current 0.0015
+2024-01-12 12:07:18,553 INFO T:257.46°K V:2.4043e-04V I:1.5000e-03A R:1.6029e-01𝛀 E:4.6237e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7434e-01𝛀 cm
+2024-01-12 12:07:18,572 INFO Measurement at current 0.0015
+2024-01-12 12:07:20,191 INFO T:257.24°K V:2.3862e-04V I:1.5000e-03A R:1.5908e-01𝛀 E:4.5889e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7228e-01𝛀 cm
+2024-01-12 12:07:20,215 INFO Measurement at current 0.0015
+2024-01-12 12:07:21,810 INFO T:257.02°K V:2.3923e-04V I:1.5000e-03A R:1.5949e-01𝛀 E:4.6006e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7297e-01𝛀 cm
+2024-01-12 12:07:21,828 INFO Measurement at current 0.0015
+2024-01-12 12:07:23,432 INFO T:256.81°K V:2.4020e-04V I:1.5000e-03A R:1.6014e-01𝛀 E:4.6193e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7408e-01𝛀 cm
+2024-01-12 12:07:23,450 INFO Measurement at current 0.0015
+2024-01-12 12:07:25,055 INFO T:256.59°K V:2.3950e-04V I:1.5000e-03A R:1.5967e-01𝛀 E:4.6058e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7328e-01𝛀 cm
+2024-01-12 12:07:25,068 INFO Measurement at current 0.0015
+2024-01-12 12:07:26,682 INFO T:256.38°K V:2.4091e-04V I:1.5000e-03A R:1.6060e-01𝛀 E:4.6328e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7488e-01𝛀 cm
+2024-01-12 12:07:26,727 INFO Measurement at current 0.0015
+2024-01-12 12:07:28,343 INFO T:256.16°K V:2.3846e-04V I:1.5000e-03A R:1.5897e-01𝛀 E:4.5857e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7208e-01𝛀 cm
+2024-01-12 12:07:28,359 INFO Measurement at current 0.0015
+2024-01-12 12:07:29,963 INFO T:255.94°K V:2.4138e-04V I:1.5000e-03A R:1.6092e-01𝛀 E:4.6419e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7542e-01𝛀 cm
+2024-01-12 12:07:30,008 INFO Measurement at current 0.0015
+2024-01-12 12:07:31,602 INFO T:255.73°K V:2.3927e-04V I:1.5000e-03A R:1.5952e-01𝛀 E:4.6014e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7302e-01𝛀 cm
+2024-01-12 12:07:31,617 INFO Measurement at current 0.0015
+2024-01-12 12:07:33,220 INFO T:255.52°K V:2.3790e-04V I:1.5000e-03A R:1.5860e-01𝛀 E:4.5750e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7145e-01𝛀 cm
+2024-01-12 12:07:34,246 INFO Measurement at current 0.0015
+2024-01-12 12:07:35,855 INFO T:255.17°K V:2.3982e-04V I:1.5000e-03A R:1.5988e-01𝛀 E:4.6120e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7365e-01𝛀 cm
+2024-01-12 12:07:35,877 INFO Measurement at current 0.0015
+2024-01-12 12:07:37,468 INFO T:254.96°K V:2.4317e-04V I:1.5000e-03A R:1.6211e-01𝛀 E:4.6764e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7747e-01𝛀 cm
+2024-01-12 12:07:37,482 INFO Measurement at current 0.0015
+2024-01-12 12:07:39,072 INFO T:254.75°K V:2.3801e-04V I:1.5000e-03A R:1.5867e-01𝛀 E:4.5771e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7157e-01𝛀 cm
+2024-01-12 12:07:39,084 INFO Measurement at current 0.0015
+2024-01-12 12:07:40,680 INFO T:254.54°K V:2.4196e-04V I:1.5000e-03A R:1.6131e-01𝛀 E:4.6531e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7608e-01𝛀 cm
+2024-01-12 12:07:40,694 INFO Measurement at current 0.0015
+2024-01-12 12:07:42,283 INFO T:254.35°K V:2.4290e-04V I:1.5000e-03A R:1.6193e-01𝛀 E:4.6711e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7715e-01𝛀 cm
+2024-01-12 12:07:42,296 INFO Measurement at current 0.0015
+2024-01-12 12:07:43,891 INFO T:254.14°K V:2.4064e-04V I:1.5000e-03A R:1.6043e-01𝛀 E:4.6277e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7458e-01𝛀 cm
+2024-01-12 12:07:43,904 INFO Measurement at current 0.0015
+2024-01-12 12:07:45,506 INFO T:253.93°K V:2.3730e-04V I:1.5000e-03A R:1.5820e-01𝛀 E:4.5635e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7077e-01𝛀 cm
+2024-01-12 12:07:45,520 INFO Measurement at current 0.0015
+2024-01-12 12:07:47,123 INFO T:253.74°K V:2.4111e-04V I:1.5000e-03A R:1.6074e-01𝛀 E:4.6367e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7511e-01𝛀 cm
+2024-01-12 12:07:47,154 INFO Measurement at current 0.0015
+2024-01-12 12:07:48,781 INFO T:253.53°K V:2.3908e-04V I:1.5000e-03A R:1.5938e-01𝛀 E:4.5976e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7279e-01𝛀 cm
+2024-01-12 12:07:48,799 INFO Measurement at current 0.0015
+2024-01-12 12:07:50,411 INFO T:253.29°K V:2.3948e-04V I:1.5000e-03A R:1.5965e-01𝛀 E:4.6053e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7325e-01𝛀 cm
+2024-01-12 12:07:50,433 INFO Measurement at current 0.0015
+2024-01-12 12:07:52,042 INFO T:253.09°K V:2.4085e-04V I:1.5000e-03A R:1.6057e-01𝛀 E:4.6317e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7482e-01𝛀 cm
+2024-01-12 12:07:52,070 INFO Measurement at current 0.0015
+2024-01-12 12:07:53,676 INFO T:252.89°K V:2.4151e-04V I:1.5000e-03A R:1.6101e-01𝛀 E:4.6445e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7557e-01𝛀 cm
+2024-01-12 12:07:53,692 INFO Measurement at current 0.0015
+2024-01-12 12:07:55,294 INFO T:252.69°K V:2.4264e-04V I:1.5000e-03A R:1.6176e-01𝛀 E:4.6662e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7686e-01𝛀 cm
+2024-01-12 12:07:55,353 INFO Measurement at current 0.0015
+2024-01-12 12:07:56,958 INFO T:252.46°K V:2.4310e-04V I:1.5000e-03A R:1.6207e-01𝛀 E:4.6751e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7739e-01𝛀 cm
+2024-01-12 12:07:56,975 INFO Measurement at current 0.0015
+2024-01-12 12:07:58,576 INFO T:252.28°K V:2.4157e-04V I:1.5000e-03A R:1.6105e-01𝛀 E:4.6456e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7564e-01𝛀 cm
+2024-01-12 12:07:58,590 INFO Measurement at current 0.0015
+2024-01-12 12:08:00,178 INFO T:252.07°K V:2.4133e-04V I:1.5000e-03A R:1.6088e-01𝛀 E:4.6409e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7536e-01𝛀 cm
+2024-01-12 12:08:00,193 INFO Measurement at current 0.0015
+2024-01-12 12:08:01,790 INFO T:251.89°K V:2.4139e-04V I:1.5000e-03A R:1.6093e-01𝛀 E:4.6421e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7543e-01𝛀 cm
+2024-01-12 12:08:01,804 INFO Measurement at current 0.0015
+2024-01-12 12:08:03,396 INFO T:251.66°K V:2.4192e-04V I:1.5000e-03A R:1.6128e-01𝛀 E:4.6522e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7603e-01𝛀 cm
+2024-01-12 12:08:03,409 INFO Measurement at current 0.0015
+2024-01-12 12:08:05,000 INFO T:251.45°K V:2.4029e-04V I:1.5000e-03A R:1.6019e-01𝛀 E:4.6210e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7418e-01𝛀 cm
+2024-01-12 12:08:05,014 INFO Measurement at current 0.0015
+2024-01-12 12:08:06,610 INFO T:251.26°K V:2.4178e-04V I:1.5000e-03A R:1.6119e-01𝛀 E:4.6497e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7588e-01𝛀 cm
+2024-01-12 12:08:06,628 INFO Measurement at current 0.0015
+2024-01-12 12:08:08,240 INFO T:251.08°K V:2.4378e-04V I:1.5000e-03A R:1.6252e-01𝛀 E:4.6882e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7816e-01𝛀 cm
+2024-01-12 12:08:08,261 INFO Measurement at current 0.0015
+2024-01-12 12:08:09,867 INFO T:250.86°K V:2.4608e-04V I:1.5000e-03A R:1.6405e-01𝛀 E:4.7322e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8078e-01𝛀 cm
+2024-01-12 12:08:09,899 INFO Measurement at current 0.0015
+2024-01-12 12:08:11,539 INFO T:250.67°K V:2.4604e-04V I:1.5000e-03A R:1.6403e-01𝛀 E:4.7315e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8074e-01𝛀 cm
+2024-01-12 12:08:11,578 INFO Measurement at current 0.0015
+2024-01-12 12:08:13,233 INFO T:250.43°K V:2.4685e-04V I:1.5000e-03A R:1.6457e-01𝛀 E:4.7471e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8166e-01𝛀 cm
+2024-01-12 12:08:13,332 INFO Measurement at current 0.0015
+2024-01-12 12:08:14,947 INFO T:250.55°K V:2.4673e-04V I:1.5000e-03A R:1.6449e-01𝛀 E:4.7448e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8152e-01𝛀 cm
+2024-01-12 12:08:14,975 INFO Measurement at current 0.0015
+2024-01-12 12:08:16,597 INFO T:250.11°K V:2.4611e-04V I:1.5000e-03A R:1.6407e-01𝛀 E:4.7329e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8082e-01𝛀 cm
+2024-01-12 12:08:16,643 INFO Measurement at current 0.0015
+2024-01-12 12:08:18,252 INFO T:250.04°K V:2.4446e-04V I:1.5000e-03A R:1.6298e-01𝛀 E:4.7012e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7894e-01𝛀 cm
+2024-01-12 12:08:18,270 INFO Measurement at current 0.0015
+2024-01-12 12:08:19,891 INFO T:249.65°K V:2.4219e-04V I:1.5000e-03A R:1.6146e-01𝛀 E:4.6575e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7634e-01𝛀 cm
+2024-01-12 12:08:19,918 INFO Measurement at current 0.0015
+2024-01-12 12:08:21,550 INFO T:249.76°K V:2.4409e-04V I:1.5000e-03A R:1.6273e-01𝛀 E:4.6941e-03V/cm J:1.6854e-02A/cm2 𝛒:2.7852e-01𝛀 cm
+2024-01-12 12:08:21,574 INFO Measurement at current 0.0015
+2024-01-12 12:08:23,226 INFO T:249.63°K V:2.4605e-04V I:1.5000e-03A R:1.6403e-01𝛀 E:4.7317e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8075e-01𝛀 cm
+2024-01-12 12:08:23,244 INFO Measurement at current 0.0015
+2024-01-12 12:08:24,839 INFO T:249.27°K V:2.4613e-04V I:1.5000e-03A R:1.6409e-01𝛀 E:4.7333e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8084e-01𝛀 cm
+2024-01-12 12:08:24,854 INFO Measurement at current 0.0015
+2024-01-12 12:08:26,446 INFO T:249.30°K V:2.4883e-04V I:1.5000e-03A R:1.6589e-01𝛀 E:4.7852e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8392e-01𝛀 cm
+2024-01-12 12:08:26,462 INFO Measurement at current 0.0015
+2024-01-12 12:08:28,056 INFO T:248.99°K V:2.4845e-04V I:1.5000e-03A R:1.6563e-01𝛀 E:4.7779e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8349e-01𝛀 cm
+2024-01-12 12:08:28,069 INFO Measurement at current 0.0015
+2024-01-12 12:08:29,673 INFO T:248.71°K V:2.4732e-04V I:1.5000e-03A R:1.6488e-01𝛀 E:4.7562e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8220e-01𝛀 cm
+2024-01-12 12:08:29,690 INFO Measurement at current 0.0015
+2024-01-12 12:08:31,307 INFO T:248.60°K V:2.4875e-04V I:1.5000e-03A R:1.6583e-01𝛀 E:4.7836e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8383e-01𝛀 cm
+2024-01-12 12:08:31,321 INFO Measurement at current 0.0015
+2024-01-12 12:08:32,914 INFO T:248.35°K V:2.4891e-04V I:1.5000e-03A R:1.6594e-01𝛀 E:4.7868e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8402e-01𝛀 cm
+2024-01-12 12:08:32,932 INFO Measurement at current 0.0015
+2024-01-12 12:08:34,539 INFO T:248.31°K V:2.5048e-04V I:1.5000e-03A R:1.6699e-01𝛀 E:4.8170e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8581e-01𝛀 cm
+2024-01-12 12:08:34,572 INFO Measurement at current 0.0015
+2024-01-12 12:08:36,177 INFO T:248.16°K V:2.4884e-04V I:1.5000e-03A R:1.6589e-01𝛀 E:4.7853e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8393e-01𝛀 cm
+2024-01-12 12:08:36,247 INFO Measurement at current 0.0015
+2024-01-12 12:08:37,860 INFO T:247.61°K V:2.4853e-04V I:1.5000e-03A R:1.6568e-01𝛀 E:4.7794e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8358e-01𝛀 cm
+2024-01-12 12:08:37,890 INFO Measurement at current 0.0015
+2024-01-12 12:08:39,500 INFO T:247.35°K V:2.4994e-04V I:1.5000e-03A R:1.6663e-01𝛀 E:4.8066e-03V/cm J:1.6854e-02A/cm2 𝛒:2.8519e-01𝛀 cm
+2024-01-12 12:08:39,521 INFO Measurement at current 0.0015
+2024-01-12 12:08:43,107 WARNING Reading gpib error, check the instruments: read() error: Input/output error (errno: 5)
+2024-01-12 12:08:50,273 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2024-01-12 12:08:57,442 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2024-01-12 12:09:04,618 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2024-01-12 12:09:11,809 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2024-01-12 12:09:18,989 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2024-01-12 12:09:26,144 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2024-01-12 12:09:33,335 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2024-01-12 12:09:40,531 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2024-01-12 12:09:47,712 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2024-01-12 12:09:54,885 WARNING Reading gpib error, check the instruments: write() failed: An attempt to write command bytes to the bus has timed out.
+2024-01-12 12:09:54,886 INFO Leaving the current loop
+2024-01-12 12:10:02,112 WARNING Writing gpib error, check the source meter: write() failed: An attempt to write command bytes to the bus has timed out.
+2024-01-12 12:10:02,113 INFO End of the measurement loop
+2024-01-12 12:10:06,883 INFO Save the description file
+2024-01-12 12:10:06,889 INFO Save data in numpy format Esperimenti/Bi2Se3 for test Sample with contact pad, contacts above the sample with Ag with Currentcooling down ar 1.5 mA/Bi2Se3_for_test_Sample_with_contact_pad,_contacts_above_the_sample_with_Ag_with_Currentcooling_down_ar_1.5_mA_at_fixed_current_1.5e-3A/Bi2Se3_for_test_Sample_with_contact_pad,_contacts_above_the_sample_with_Ag_with_Currentcooling_down_ar_1.5_mA_at_fixed_current_1.5e-3A-20240112121002
+2024-01-12 12:10:06,898 INFO Save data in CSV format Esperimenti/Bi2Se3 for test Sample with contact pad, contacts above the sample with Ag with Currentcooling down ar 1.5 mA/Bi2Se3_for_test_Sample_with_contact_pad,_contacts_above_the_sample_with_Ag_with_Currentcooling_down_ar_1.5_mA_at_fixed_current_1.5e-3A/Bi2Se3_for_test_Sample_with_contact_pad,_contacts_above_the_sample_with_Ag_with_Currentcooling_down_ar_1.5_mA_at_fixed_current_1.5e-3A-20240112121002.csv
+2024-01-12 12:10:06,909 INFO Save plot as image Esperimenti/Bi2Se3 for test Sample with contact pad, contacts above the sample with Ag with Currentcooling down ar 1.5 mA/Bi2Se3_for_test_Sample_with_contact_pad,_contacts_above_the_sample_with_Ag_with_Currentcooling_down_ar_1.5_mA_at_fixed_current_1.5e-3A/Bi2Se3_for_test_Sample_with_contact_pad,_contacts_above_the_sample_with_Ag_with_Currentcooling_down_ar_1.5_mA_at_fixed_current_1.5e-3A-20240112121002.png
