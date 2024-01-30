@@ -1,0 +1,22 @@
+IV_RT_characterization experiment of current biased Bi2Te3 4-wires
+Name of the sample: 29012024_Bi2Te3_TempRamp_CoolDown_below163K
+Area: 0.089cm2
+Length: 0.052cm
+Current source fixed at 1.5e-3A
+
+### Experiment 20240129164943 ###
+Date 2024-01-29 start at 15:42:44 end at 16:49:43 duration 1:06:59
+Temperature range from 77.01°K to 158.43°K
+Resistivity:
+	 average 1.3561e-01𝛀 cm
+	 minimum 8.8170e-02𝛀 cm at 134.13°K
+	 maximum 1.6624e-01𝛀 cm at 156.32°K
+Resistance:
+	 average 7.9230e-02𝛀 cm
+	 minimum 5.1515e-02𝛀 cm
+	 maximum 9.7127e-02𝛀 cm
+Voltage:
+	 average 1.1885e-04V
+	 minimum 7.7273e-05V at 134.13°K
+	 maximum 1.4569e-04V at 156.32°K
+ -------------------------------------------------------
