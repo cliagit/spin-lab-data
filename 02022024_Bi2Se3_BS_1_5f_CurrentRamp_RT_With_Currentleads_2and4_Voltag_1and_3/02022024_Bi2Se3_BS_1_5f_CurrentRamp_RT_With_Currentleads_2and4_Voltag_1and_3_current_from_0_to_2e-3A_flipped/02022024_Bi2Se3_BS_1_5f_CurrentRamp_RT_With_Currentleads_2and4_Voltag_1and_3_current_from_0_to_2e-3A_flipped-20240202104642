@@ -1,0 +1,22 @@
+IV_RT_characterization experiment of current biased Bi2Se3 4-wires
+Name of the sample: 02022024_Bi2Se3_BS_1_5f_CurrentRamp_RT_With_Currentleads_2and4_Voltag_1and_3
+Area: 0.089cm2
+Length: 0.052cm
+Current source starts and ends at 0A through 2e-3A
+
+### Experiment 20240202104642 ###
+Date 2024-02-02 start at 10:41:07 end at 10:46:32 duration 0:05:25
+Temperature range from 292.82°K to 292.83°K
+Resistivity:
+	 average inf𝛀 cm
+	 minimum -5.4839e-02𝛀 cm at 292.82°K
+	 maximum inf𝛀 cm at 292.82°K
+Resistance:
+	 average inf𝛀 cm
+	 minimum -3.2041e-02𝛀 cm
+	 maximum inf𝛀 cm
+Voltage:
+	 average -1.0147e-05V
+	 minimum -2.0519e-05V at 292.83°K
+	 maximum 4.8849e-07V at 292.83°K
+ -------------------------------------------------------
