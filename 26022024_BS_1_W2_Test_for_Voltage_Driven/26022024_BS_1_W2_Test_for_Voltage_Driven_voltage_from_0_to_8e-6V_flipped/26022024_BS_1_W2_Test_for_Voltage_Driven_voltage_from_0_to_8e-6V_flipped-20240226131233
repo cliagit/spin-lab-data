@@ -1,0 +1,22 @@
+Electrical characterization experiment of voltage biased BS_1_W2
+Name of the sample: 26022024_BS_1_W2_Test_for_Voltage_Driven
+Area: 5.908e-2cm2
+Length: 0.583e-1cm
+Voltage source starts and ends at 0V through 8e-6V
+
+### Experiment 20240226131233 ###
+Date 2024-02-26 start at 13:09:33 end at 13:10:42 duration 0:01:09
+Temperature range from 76.74°K to 76.75°K
+Resistivity:
+	 average -9.1979e-01𝛀 cm
+	 minimum -1.9377e+00𝛀 cm at 76.75°K
+	 maximum -0.0000e+00𝛀 cm at 76.74°K
+Resistance:
+	 average -9.0765e-01𝛀 cm
+	 minimum -1.9121e+00𝛀 cm
+	 maximum -0.0000e+00𝛀 cm
+Current:
+	 average -4.4343e-06A
+	 minimum -4.6098e-06A at 76.74°K
+	 maximum -3.4831e-06A at 76.74°K
+ -------------------------------------------------------
